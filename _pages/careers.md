@@ -34,8 +34,11 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 	</div>
 	<div class="row">
 		<div class="small-12 medium-2 large-2 columns">
-			<nav data-sticky-container class="docs-toc-wrap sticky-container" id="docsToc">
-		    <div data-sticky-on="large" class="docs-toc sticky is-stuck is-at-top" id="docsTOC" data-sticky="ickb0l-sticky" data-margin-top="12" data-anchor="docs" data-resize="docsTOC" data-mutate="docsTOC" data-events="resize">
+			<nav class="docs-toc-wrap" id="docsToc" data-sticky-container>
+				<div class="docs-toc " id="docsTOC" data-sticky data-margin-top="6" data-anchor="docs">
+					<ul class="vertical menu" data-docs-toc data-magellan data-offset="130">
+						<li class="docs-nav-title">Sticky</li>
+					</ul>
 		      <ul class="medium-vertical menu align-right text-right" data-magellan>
 					  <li><a href="#first" class="scolor2">Intro</a></li>
 					  <li><a href="#second" class="scolor2">We do we exist</a></li>
@@ -70,7 +73,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		</div>
 	</div>
 	<div class="row">
-		<div class="small-12 medium-10 large-8 end large-offset-3 medium-offset-2 columns m-ws-top b-ws-bottom" id="docs">
+		<div class="small-12 medium-10 large-8 end large-offset-3 medium-offset-2 columns m-ws-top b-ws-bottom">
 			<h4 class="bkc nm">We value our team above everything else. </h4>
 			<!-- <div class="f-1-25x">With</div> -->
 			<div class="xs-ws-top f-1-25x">And We love problems. For someone's problem is a doer's opportunity.</div>
