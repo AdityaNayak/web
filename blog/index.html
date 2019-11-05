@@ -1,48 +1,86 @@
 ---
-layout: page
+layout: home
+title: Blog
+description: The journal for all our experiments
 ---
+<div style="border-bottom: 1px solid #dedede;" class="s-ws-bottom-p lgbg">
+    <div class="row">
+        <div class="small-6 medium-4 small-centered columns text-center">
+        <img src="{{site.url}}/assets/img/apollo.jpg" >
+        </div>
+    </div>
+    <div class="row">
+        <div class="large-5 large-offset-3 medium-4 medium-offset-2 small-10 small-offset-1 columns np">
+            <div class="row">
+                <a href="{{site.url}}">
+                    <div class="small-2  columns">
+                        <img src="{{site.url}}/assets/img/vantage-logo-full.png" style="margin-top:0.25em;">
+                    </div>
+</a>
+                    <div class="small-3 medium-4 large-2 columns">
+                        <a href="{{site.url}}">
+                            <h2 class="sans2 bkc f-1-25x" style="line-height:1;">The <br> Vantage <br>Project</h2>
+                        </a>
+                    </div>
+                    <div class="small-6 medium-8 large-8 columns" style="border-left: 1px solid #dedede;">
+                        <h1 class="f-1-5x bold bc" style="line-height: 1.27; ">Blog</h1>
+                        <div>The journal for all our experiments</div>
+                    </div>
+            </div>
+        </div>
+        <div class="small-12 medium-6 large-4 columns xs-ws-top">
+            <ul class="menu align-right hover">
+        <!-- <li><a href="https://meetings.hubspot.com/aditya16" class="button">Let's talk</a></li> -->
+              <li><a href="{{site.url}}/jobs" class="dbc">Careers</a></li>
+        <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li>
+        <li><a href="{{site.url}}/blockchain" class="dbc">Blockchain</a></li>
+      </ul>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="small-12 large-6 medium-8 medium-centered columns m-ws-top-p articles">
+        <!-- This loops through the paginated posts -->
+        {% for post in paginator.posts %}
+            {% unless post.categories contains "bootcamp"%}
+            <p class="post-meta scolor3 s nm m-ws-top-p">{{ post.date | date: '%B %d, %Y' }}</p>
+            <h3 class="nm" style="line-height: 1"><a href="{{ post.url }}" class="dbc s">{{ post.title }}</a></h3>
+            {{ post.excerpt }}
+            <!-- <a href="{{ post.url }}">Read more...</a> -->
+            {% endunless %}
+            {% unless forloop.last %}
+            {% endunless %}
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    <p class="post-meta">{{ post.date | date: '%d.%m.%Y' }}</p>
-    {{ post.excerpt }}
-    <a href="{{ post.url }}">Read more...</a>
-
-    {% unless forloop.last %}
-    <hr>
-    {% endunless %}
-
-{% endfor %}
-
-<br><br>
-
-<!-- Pagination links -->
-{% if paginator.total_pages > 1 %}
-<nav>
-    <ul class="pagination">
-        {% if paginator.previous_page %}
-            <li class="arrow"><a href="{{ paginator.previous_page_path | replace: '/index.html', '' }}">&laquo;</a></li>
-        {% else %}
-            <li class="arrow invisible"><a>&laquo;</a></li>
-        {% endif %}
-
-        {% for page in (1..paginator.total_pages) %}
-            {% if page == paginator.page %}
-                <li class="current">{{ page }}</li>
-            {% elsif page == 1 %}
-                <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
-            {% else %}
-                <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-            {% endif %}
         {% endfor %}
 
-        {% if paginator.next_page %}
-            <li class="arrow"><a href="{{ paginator.next_page_path }}">&raquo;</a></li>
-        {% else %}
-            <li class="arrow invisible"><a>&raquo;</a></li>
+
+        <!-- Pagination links -->
+        {% if paginator.total_pages > 1 %}
+        <nav class="text-center">
+            <ul class="pagination">
+                {% if paginator.previous_page %}
+                    <li class="arrow"><a href="{{ paginator.previous_page_path | replace: '/index.html', '' }}">&laquo;</a></li>
+                {% else %}
+                    <li class="arrow unavailable"><a>&laquo;</a></li>
+                {% endif %}
+
+                {% for page in (1..paginator.total_pages) %}
+                    {% if page == paginator.page %}
+                        <li class="current"><a>{{ page }}</a></li>
+                    {% elsif page == 1 %}
+                        <li><a href="{{ site.paginate_path | replace: '/seite:num', '' }}">{{ page }}</a></li>
+                    {% else %}
+                        <li><a href="{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a></li>
+                    {% endif %}
+                {% endfor %}
+
+                {% if paginator.next_page %}
+                    <li class="arrow"><a href="{{ paginator.next_page_path }}">&raquo;</a></li>
+                {% else %}
+                    <li class="arrow unavailable"><a>&raquo;</a></li>
+                {% endif %}
+            </ul>
+        </nav>
         {% endif %}
-    </ul>
-</nav>
-{% endif %}
+    </div>
+</div>

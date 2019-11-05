@@ -1,7 +1,7 @@
-<nav>
-  <ul class="menu clearfix float-right">
+<nav class="">
+  <ul class="vertical menu">
     {% for item in site.data.nav-footer %}
-      <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+      <li><a href="{{ item.url }}" class="scolor2 s">{{ item.link }}</a></li>
     {% endfor %}
   </ul>
 </nav>

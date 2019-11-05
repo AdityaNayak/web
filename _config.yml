@@ -1,8 +1,8 @@
 # Site settings
-language:               ""
-title:                  "Site Title"
-description:            "Site description"
-google-verification:    ""
+language:               "en"
+title:                  "The Vantage Project"
+description:            "We help daring entrepreneurs build vantage"
+google-verification:    "XClNz4rZr5JJ4Caeh1_ywN2E74ZNj4NGt45o1wnqloU"
 
 # Handling Reading
 include:
@@ -32,12 +32,15 @@ exclude:
 
 # Plugins
 # Add plugins in the Gemfile
+plugins:             ["jekyll-sitemap", "jekyll-paginate"]
+
 
 # Conversion
 incremental:      true
 
 # Serving
-# url:            ""
+url: http://127.0.0.1.xip.io:3000
+# url:            "https://www.thevantageproject.com"
 # baseurl:        "" # does not include hostname
 
 # Outputting
@@ -50,3 +53,10 @@ compress_html:
     envs: [development]
 
 highlighter:      rouge
+
+defaults:
+  -
+    scope:
+      path:            "assets/"
+    values:
+      sitemap:         false

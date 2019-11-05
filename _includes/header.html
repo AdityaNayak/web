@@ -1,6 +1,23 @@
 {% include head.html %}
-
 <header>
-<small><i>header</i></small>
-{% include components/nav-menu.html %}
+	<div class="row">
+		<div class="large-3 large-offset-3 medium-4 medium-offset-2 small-6 small-offset-3 columns np">
+			<div class="row">
+				<div class="small-4 columns">
+					<img src="{{site.url}}/assets/img/vantage-logo-full.png" style="margin-top:0.6em;">
+				</div>
+<div class="small-8 columns">
+					<a href="{{site.url}}"><div class="sans2 bkc f-2x" style="line-height:1;">The <br> Vantage <br>Project</div></a>
+</div>
+			</div>
+		</div>
+		<div class="small-12 medium-6 columns m-ws-top">
+			<ul class="menu align-right">
+        <li><a href="https://meetings.hubspot.com/aditya16" class="button">Let's talk</a></li>
+        {% include components/nav-menu.html %}
+<!-- <li><a href="{{site.url}}/ico.html" class="dbc">ICO Services</a></li>
+        <li><a href="{{site.url}}" class="dbc">Blockchain</a></li> -->
+      </ul>
+		</div>
+	</div>
 </header>

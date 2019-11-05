@@ -5,6 +5,7 @@
   "license": "MIT",
   "main": "gulpfile.js",
   "dependencies": {
+    "gulp": "^3.9.1",
     "motion-ui": "^1.2.3"
   },
   "devDependencies": {
@@ -26,7 +27,6 @@
     "cross-spawn": "^6",
     "del": "^4",
     "foundation-sites": "^6.4.3",
-    "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6",
     "gulp-babel": "^8.0.0",
     "gulp-concat": "^2.6.1",

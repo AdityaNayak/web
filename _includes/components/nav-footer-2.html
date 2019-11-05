@@ -1,0 +1,7 @@
+<nav class="">
+  <ul class="vertical menu">
+    {% for item in site.data.nav-footer-2 %}
+      <li><a href="{{ item.url }}" class="scolor2 s">{{ item.link }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

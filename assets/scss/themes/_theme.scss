@@ -1,3 +1,35 @@
 // --------------------------------------------------
 // Theme
 // --------------------------------------------------
+
+.menu{
+  a{
+	text-transform: uppercase;
+	font-weight:bold;	
+    &.active{
+      border-bottom:3px solid $lightblue; 
+    }
+  }
+  &.hover{
+    a:hover,a:active{
+      border-bottom:3px solid $lightblue; 
+    }
+  }
+}
+
+.progress .meter {
+	-moz-transition:width 0.7s ease;
+	-webkit-transition:width 0.7s ease;
+	-transition:width 0.7s ease;
+}
+.progress.large{
+	height:2rem;
+}
+/* Stacked progress meter fix */
+.progress-meter.stacked{
+	display:inline-block;
+	float:left;
+	.progress-meter-text{
+		font-size:1rem;
+	}
+}
