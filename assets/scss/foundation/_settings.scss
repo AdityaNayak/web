@@ -119,28 +119,28 @@ $print-transparent-backgrounds: true;
 // // ------------------
 
 // $header-font-family: $body-font-family;
-// $header-font-weight: $global-weight-normal;
+$header-font-weight: bold;
 // $header-font-style: normal;
 // $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
-// $header-sizes: (
-//   small: (
-//     'h1': 24,
-//     'h2': 20,
-//     'h3': 19,
-//     'h4': 18,
-//     'h5': 17,
-//     'h6': 16,
-//   ),
-//   medium: (
-//     'h1': 48,
-//     'h2': 40,
-//     'h3': 31,
-//     'h4': 25,
-//     'h5': 20,
-//     'h6': 16,
-//   ),
-// );
-// $header-color: inherit;
+$header-sizes: (
+  small: (
+    'h1': 30,
+    'h2': 24,
+    'h3': 21,
+    'h4': 18,
+    'h5': 16,
+    'h6': 14,
+  ),
+  medium: (
+    'h1': 32,
+    'h2': 27,
+    'h3': 24,
+    'h4': 20,
+    'h5': 18,
+    'h6': 14,
+  ),
+);
+$header-color: $darkblue;
 $header-lineheight: 1.15;
 // $header-margin-bottom: 0.5rem;
 // $header-text-rendering: optimizeLegibility;

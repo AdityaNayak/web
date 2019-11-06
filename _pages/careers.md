@@ -33,53 +33,49 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		</div> -->
 	</div>
 	<div class="row">
-		<div class="small-12 medium-2 large-2 columns">
-			<nav class="docs-toc-wrap" id="docsToc" data-sticky-container>
-				<div class="docs-toc " id="docsTOC" data-sticky data-margin-top="6" data-anchor="docs">
-					<ul class="vertical menu" data-docs-toc data-magellan data-offset="130">
-						<li class="docs-nav-title">Sticky</li>
-					</ul>
-		      <ul class="medium-vertical menu align-right text-right" data-magellan>
-					  <li><a href="#first" class="scolor2">Intro</a></li>
-					  <li><a href="#second" class="scolor2">We do we exist</a></li>
-					  <li><a href="#third" class="scolor2">Value system</a></li>
-					  <li><a href="#" class="scolor2">Open positions</a></li>
-					  <li><a href="#" class="scolor2">Playbook</a></li>
-					  <li><a href="#" class="scolor2">Interview Process</a></li>
-					  <li><a href="#" class="scolor2">Who should apply</a></li>
-					  <li><a href="#" class="scolor2">Good reads</a></li>
-					</ul>
-		    </div>
-		  </nav>
-		</div>
-		<div class="small-12 medium-10 large-8 end columns large-offset-1 b-ws-top">
+		<div class="small-12 medium-10 large-8 end columns large-offset-3 b-ws-top">
 			<!-- <h4 class="bkc">We're a high-performance team, not a family.</h4>
 			<p class="b-ws-top">Families are structured for companionship. We are structured like a sports team; <span class="bkc f-1-25x">Built to Win.</span> </p> -->
 			<p class="m-ws-top f-2x dbc bold nm">
 			We hire, develop and cut to ensure champions in every position.</p>
-			<p class="f-1-25x bc"> In most companies, average performance gets an adequate raise.</p>
+			<p class="f-1-25x scolor2 nm bc"> In most companies, average performance gets an adequate raise.</p>
+			<p class="f-1-25x "> At The Vantage Project, average performance gets a severance package.</p>
 		</div>
 		<div class="small-12 medium-10 large-6 columns large-offset-3 medium-offset-2">
-			<p class="f-1-25x"> At The Vantage Project, average performance gets a severance package.</p>
-			<p class="f-1-25x">For us, the cost of having adequate in any position is simply too large, when we could have extraordinary. We work hard to ensure that all our team is working to be great.</p>
-			<p class="bkc f-1-25x s-ws-top">Why be good, when you can be Great.</p>
+			<p class="">For us, the cost of having adequate in any position is simply too large, when we could have extraordinary. We work hard to ensure that all our team is working to be great.</p>
+		</div>
+	</div>
+	<div class="row align-center">
+		<div class="large-6 columns">
+			<h4 class="dbc bold">Who are we?</h4>
+				<p>The Vantage project is the base protocol that enables the next generation of entrepreneurs to build their startups faster. We tilt the odds in favor of entrepreneurs by offering a lower risk, high growth and high yield path to building companies without having to depend on external capital. Sometimes we act as investors in existing businesses but more often we do so ourselves, with someone from our team (usually multiple) choosing to chase their entrepreneurial dreams. </p>
+				Founded: 2019 (earlier Mutiny Labs)
+	Team Size: 14
+	Average team size of portfolio team’s: 78
+		</div>
+	</div>
+
+</div>
+Why do we do it, you ask?
+Ethical wealth creation is possible. And poverty is the worst form of evil. 
+Want details? Go here:
+
+Our value system
+<div class="row">
+		<div class="small-12 medium-10 large-8 end large-offset-3 medium-offset-2 columns m-ws-top b-ws-bottom">
+			<h4 class="bkc nm">We value our team above everything else. </h4>
+			<div class="f-1-25x">With</div>
+			<div class="xs-ws-top f-1-25x">And We love problems. For someone's problem is a doer's opportunity.</div>
+		</div>
+	</div>
+	<p class="bkc f-1-25x s-ws-top">Why be good, when you can be Great.</p>
 			<p class="f-1-25x">The benefit of a high-performance culture is you experience the exhilaration of working with consistently outstanding colleagues. You do your best work, you learn the most, and you achieve the highest professional satisfaction, when you're surrounded by excellence.</p>
 		</div>
 		<div class="small-12 medium-10 large-8 end columns large-offset-3 medium-offset-2">
 			<blockquote class="dbc bold f-1-5x m-ws-top">A great workplace is not how many perks are offered; <br> It is how stunning the colleagues are.</blockquote>
 			<div class="text-right"><a class="scolor2 s2" href="https://www.fastcompany.com/3027124/lessons-learned/netflixs-major-hr-innovation-treating-humans-like-people"> - Stolen from Netflix's philosophy</a></div>
-	<!-- <div class="text-center b-ws-bottom b-ws-top"><a class="button success" href="mailto:work@mutinylabs.in">I think I belong here</a></div> -->
-	<!-- <div class="f-1-25x b-ws-bottom b-ws-bottom-p b-ws-top">"If You’re Offered a Seat on a Rocket Ship, You Don’t Ask What Seat. You Just Get On.”</div> -->
-		</div>
-	</div>
-	<div class="row">
-		<div class="small-12 medium-10 large-8 end large-offset-3 medium-offset-2 columns m-ws-top b-ws-bottom">
-			<h4 class="bkc nm">We value our team above everything else. </h4>
-			<!-- <div class="f-1-25x">With</div> -->
-			<div class="xs-ws-top f-1-25x">And We love problems. For someone's problem is a doer's opportunity.</div>
-		</div>
-	</div>
-</div>
+	<div class="text-center b-ws-bottom b-ws-top"><a class="button success" href="mailto:work@mutinylabs.in">I think I belong here</a></div>
+	<div class="f-1-25x b-ws-bottom b-ws-bottom-p b-ws-top">"If You’re Offered a Seat on a Rocket Ship, You Don’t Ask What Seat. You Just Get On.”</div>
 <div class="row align-center">
 	<div class="small-12 medium-10 large-9 large-offset-3 medium-offset-2 columns m-ws-top m-ws-bottom">
 		<div class="dbc nm bold f-1-5x"> Intrigued?</div>
@@ -93,18 +89,13 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 			  <p class="yc">It appears you don't have a PDF plugin for this browser.
 			   No biggie... you can <a href="https://drive.google.com/file/d/1pWnCQyXlKzmrFyQVHPK6C031DJSRv4b6/view">click here to
 			  download the PDF file.</a></p>  
-			</object> -->
+			</object>
 			<object type="application/pdf" height="20px">
 			<p class="yc s-ws-top">Oops! Looks like there may be an issue with your browser. 
 			   No biggie... If you face issues with slideshare you can <a href="https://drive.google.com/file/d/1pWnCQyXlKzmrFyQVHPK6C031DJSRv4b6/view"> click here to view the PDF file.</a></p>  
 		  </object>
 		</div>
 	</div>
-</div>
-<div class="sections">
-  <section id="first" data-magellan-target="first">First Section</section>
-  <section id="second" data-magellan-target="second">Second Section</section>
-  <section id="third" data-magellan-target="third">Third Section</section>
 </div>
 <div class="row">
 	<div class="small-12 medium-10 large-9 large-offset-3 medium-offset-2 columns b-ws-top m-ws-bottom">

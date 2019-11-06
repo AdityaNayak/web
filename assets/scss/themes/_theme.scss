@@ -33,3 +33,50 @@
 		font-size:1rem;
 	}
 }
+article,.articles{
+  h1,h2,h3,h4,h5{
+    font-weight:bold;
+    @extend .bkc;
+    letter-spacing:-1px;
+  }
+}
+
+form{
+ &.large{
+  .input-group-field{
+    height: 4rem;
+    box-shadow:none;
+    font-weight:bold;
+    // text-align: right;
+    &::-webkit-inner-spin-button, &::-webkit-outer-spin-button { 
+      -webkit-appearance: none; 
+      margin: 0; 
+    }
+  }
+  .input-group-label{
+    background:none;
+  }
+ }
+}
+
+.pagination{
+  li{
+    display:inline-block;
+    font-weight:bold;
+    text-align:center;
+    border-radius:3px;
+    a {
+      padding:0.5em 1em;
+      display:inline-block;
+      border-radius:3px;
+    }
+    
+    &.unavailable{
+      display:none;
+    }
+    &.current{
+      background:$darkblue;
+      a{color:$white;}
+    }
+  }
+}

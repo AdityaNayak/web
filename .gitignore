@@ -37,6 +37,9 @@ $RECYCLE.BIN/
 node_modules/**/*
 npm-debug.log
 
+# bower
+bower_components
+
 # Jekyll
 _site
 .jekyll-metadata
