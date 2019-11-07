@@ -8,11 +8,13 @@ google-verification:    "XClNz4rZr5JJ4Caeh1_ywN2E74ZNj4NGt45o1wnqloU"
 include:
   - ".htaccess"
   - "_pages"
+  - "playbook/"
 
 exclude:
   - ".DS_Store"
   - "/assets/"
   - "bower.json"
+  - "bower_components"
   - "composer.json"
   - "composer.lock"
   - "DOC.md"
