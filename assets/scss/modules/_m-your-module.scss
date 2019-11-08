@@ -658,10 +658,13 @@ svg#i-clock {vertical-align: middle;}
   background:#fafafa url('../img/suit.jpg') no-repeat; background-position: -20% 50%;
 }
 .rsuitbg{
-  background:#fafafa url('../img/rsuit.jpg') no-repeat; background-position: 200% 50%;
+  background:#fafafa url('../img/rsuit.jpg') no-repeat; background-position: 108% 50%;
 }
 .robotbg{
   background:#fafafa url('../img/robot2.jpg') no-repeat; background-position: 100% 0%;
+}
+.fsuitbg{
+  background:#fafafa url('../img/fsuit.jpg') no-repeat; background-position: 100% 0%;
 }
 .bpackbg{
   background:#fafafa url('../img/bpack.jpg') no-repeat; background-position: 210% 0%;
@@ -686,4 +689,15 @@ svg#i-clock {vertical-align: middle;}
 }
 .angellist_jobs-job{
   margin-bottom: 1.5em !important;
+}
+.side-navg {
+  li>a{
+    @extend .scolor2;  
+  }
+  ul li a{
+    @extend .scolor3;
+  }
+  .is-active{
+    color: $lightblue;
+  }
 }
