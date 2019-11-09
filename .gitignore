@@ -53,5 +53,6 @@ Gemfile.lock
 # Composer
 composer.lock
 
-#Domain
+# Domain
 _config.yml
+config.yml
