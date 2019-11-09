@@ -56,3 +56,4 @@ composer.lock
 # Domain
 _config.yml
 config.yml
+CNAME

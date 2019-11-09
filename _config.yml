@@ -12,7 +12,7 @@ include:
 
 exclude:
   - ".DS_Store"
-  - "/assets/"
+  # - "/assets/"
   - "bower.json"
   - "bower_components"
   - "composer.json"
@@ -43,7 +43,7 @@ incremental:      true
 # Serving
 # url: http://127.0.0.1.xip.io:3000
 # url:            "https://www.thevantageproject.com"
-url: https://thevantageproject.github.io/web/
+url: https://thevantageproject.github.io/web
 # baseurl:        "" # does not include hostname
 
 # Outputting
