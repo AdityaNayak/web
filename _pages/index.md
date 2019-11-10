@@ -28,8 +28,9 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 	        <!-- <li><a href="https://meetings.hubspot.com/aditya16" class="button">Let's talk</a></li> -->
 	<!--         <li><a href="{{site.url}}/blog" class="dbc">Blog</a></li> -->
 	        <li><a href="{{site.url}}/careers" class="dbc">Careers</a></li>
+	        <li><a href="{{site.url}}/playbook" class="dbc">Playbook</a></li>
 	        <!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li> -->
-	        <!-- <li><a href="{{site.url}}/blockchain" class="dbc">Blockchain</a></li> -->
+	        <li><a href="{{site.url}}/buidl" class="dbc">Buidl</a></li>
 	      </ul>
 			</div>
 		</div>
@@ -170,7 +171,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 <div class="suit2bg">
 	<div class="grid-container">
 		<div class="grid-x align-center">
-			<div class="small-12 medium-10 medium-centered large-6 cell s-ws-top">
+			<div class="small-12 medium-10 medium-centered large-6 cell m-ws-top">
 				<h3 class=" nm">We chase hyper growth opportunities that are profitable today.</h3>
 				<p class="f-1-25x">Guided by the Market, driven by Technology and blessed by Compounding.</p>
 			<h3 class=" b-ws-top">We are different</h3>

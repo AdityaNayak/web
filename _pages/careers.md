@@ -26,23 +26,26 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 						</div>
 </div>
 			</div>
-
-<!-- 		<div class="small-12 medium-6 cell s-ws-top xs-ws-top-p">
+		<div class="small-12 medium-6 cell s-ws-top xs-ws-top-p">
 			<ul class="menu align-right hover">
-	      <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li>
-	      <li><a href="{{site.url}}/blockchain" class="dbc">Blockchain</a></li>
+	      <!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li>
+	      <li><a href="{{site.url}}/blockchain" class="dbc">Blockchain</a></li> -->
+      	<li><a href="{{site.url}}/careers" class="dbc active">Careers</a></li>
+        <li><a href="{{site.url}}/playbook" class="dbc">Playbook</a></li>
+        <!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li> -->
+        <li><a href="{{site.url}}/buidl" class="dbc">Buidl</a></li>
 	    </ul>
-		</div> -->
+		</div>
 		</div>
 	</div>
 	<div class="grid-container">
 		<div class="grid-x">
-			<div class="small-12 medium-10 large-8 end cell large-offset-3 b-ws-top">
+			<div class="small-12 medium-10 large-6 end cell large-offset-3 b-ws-top">
 				<!-- <h4 class="bkc">We're a high-performance team, not a family.</h4>
 				<p class="b-ws-top">Families are structured for companionship. We are structured like a sports team; <span class="bkc f-1-25x">Built to Win.</span> </p> -->
 				<h2 class="m-ws-top">We hire, develop and cut to ensure champions in every position.</h2>
-				<p class=" nm bc"> In most companies, average performance gets an adequate raise.</p>
-				<p class=" bc"> At The Vantage Project, average performance gets an intervention.</p>
+				<h4 class=" bc"> In most companies, average performance gets an adequate raise.</h4>
+				<h4 class=" bc"> At The Vantage Project, average performance gets an intervention.</h4>
 			</div>
 			<div class="small-12 medium-10 large-6 cell large-offset-3 medium-offset-2">
 				<p class="">For us, the cost of having adequate in any position is simply too large, when we could have extraordinary. We work hard to ensure that all our team is working to be their 10x potential.</p>
@@ -66,7 +69,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<h3>Why do we do it, You ask?</h3>
 				<p class="nm">Ethical wealth creation is possible. And poverty is the worst form of evil. </p>
 				<p>Purpose of wealth is freedom. We wish everyone to be free.</p> 
-				<p>Want details? Go here: <a href="">Why | The Vantage Project</a></p>
+				<!-- <p>Want details? Go here: <a href="https://docs.google.com/document/d/1dOqyF4mmEuu_XkOBtJ_GdV-4JSYke5xui6cOiMcOblo/edit#">Why | The Vantage Project</a></p> -->
 			</div>
 		</div>
 	</div>
@@ -99,7 +102,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 <div class="grid-container">
 	<div class="grid-x align-center">
 		<div class="small-6 cell b-ws-top m-ws-bottom">
-			<div class="f-1-25x">"Are we your ideal spot in the universe?"</div>
+			<div class="f-1-25x xs-ws-bottom">"Are we your ideal spot in the universe?"</div>
 			<div class="dbc nm bold">Only proceed further if the answer to the above question is a Yes.</div>
 			<div class="bc">No Cheating. And no Heroism.</div>
 			<div class=" xs-ws-top">After all, you'll only be able to thrive here with Integrity. Towards yourself.</div>
@@ -114,7 +117,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<div>Open positions: <span class="bkc bold">24</span> </div>
 				<div>Average base salary per employee: <span class="bkc bold">11.4 lakhs</span></div>
 				<div>Average multiple earned (on base) per employee: <span class="bkc bold">1.6</span></div>
-				<div class="m-ws-bottom">Average wealth earned per employee in last 12 months: <span class="bkc bold">~18 lakhs</span></div>
+				<div class="m-ws-bottom">Highest payout in last 12 months: <span class="bkc bold">~32 lakhs</span></div>
 				<!-- <h4 class="">Currently recruiting for:</h4> -->
 				<!-- <div class="grid-x">
 					<div class="small-3 cell">
@@ -137,7 +140,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 			<div class="large-6 cell b-ws-top">
 				<h3>Life at The Vantage Project</h3>
 				<p>We are currently based in Delhi, India and follow a distributed team structure. <br> HQ at our beautiful office with open lawns (and hopefully with a pool soon) at Qutub Institutional Area and distributed workspaces at-location for our portfolio companies. </p>
-				<div>Recommended Read: <a class="btn">The Playbook</a></div>
+				<div>Recommended Read: <a class="btn" href="{{site.url}}/playbook">The Playbook</a></div>
 			</div>
 		</div>
 		<div class="grid-x align-center">
@@ -175,9 +178,11 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<li><h5 class="bkc">References</h5>
 				<p>3+ references from current and former managers and co-workers.</p></li>
 				<li><h5 class="bkc">Offer </h5>
-				<p>Hopefully, we’ll be able to make you an offer you can’t refuse. <br> Tip: <a>How to negotiate an offer at TVP</a></p></li>
+				<p>Hopefully, we’ll be able to make you an offer you can’t refuse. </p>
+				<!-- <p> Tip: <a href="https://docs.google.com/document/d/1dOqyF4mmEuu_XkOBtJ_GdV-4JSYke5xui6cOiMcOblo/edit#">How to negotiate an offer at TVP</a></p> -->
+				</li>
 				<li><h5 class="bkc">Onboarding</h5>
-				<p>Welcome aboard. The journey to 10x has just begun. The next 12 months are going to be super exciting, and we hope to see you succeed. <br> Further read: <a class="btn">Playbook | firstday</a></p></li>
+				<p>Welcome aboard. The journey to 10x has just begun. The next 12 months are going to be super exciting, and we hope to see you succeed. <br> Further read: <a class="btn" href="{{site.url}}/playbook/#third">Playbook | firstday</a></p></li>
 			</ol>
 		</div>
 	</div>
