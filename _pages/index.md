@@ -336,7 +336,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 		</div>
 		<div class="grid-x align-center">
 	    <div class="small-12 medium-8 medium-centered large-6 cell small-centered m-ws-top text-center">
-	    	<div class="grid-x">
+	    	<div class="grid-x grid-padding-x">
 	    		<div class="medium-2 small-3 cell">
 	    			<a href="http://www.ndtv.com/video/player/heads-up/satya-nadella-s-secret-to-success/340190#t=948" target="_blank"><img src="{{site.url}}/assets/img/ndtvprofit.png" style="margin-top:1em;" class="gs hv"><p class="scolor s2 nm" style="line-height: 1; padding-top:0.25em;">starts at @15:42</p></a>
 	    		</div>

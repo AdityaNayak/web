@@ -1,5 +1,5 @@
 ---
-permalink: /ico
+permalink: /ico/
 layout: bare
 title: ICO Growth Labs
 <!-- image: bg2.jpg -->

@@ -362,7 +362,7 @@ We spend significant time and mindspace on helping other pioneers win. For all h
 	</div> -->
 	<div class="grid-container">
 	<div class="grid-x align-center">
-		<div class="small-12 large-6 cell b-ws-top b-ws-top-p">
+		<div class="small-12 large-6 cell b-ws-top">
 			<p class="f-1-5x nm bold bkc">Need our help?</p>
 			<p class="f-1-25x">Feel free to ping us</p>
 			<div class="m-ws-bottom"><a class="button large" href="https://meetings.hubspot.com/aditya16" target="_blank">Let's Talk</a></div>
