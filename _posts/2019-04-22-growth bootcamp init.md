@@ -2,7 +2,6 @@
 layout: post
 title:  Growth Bootcamp Init
 subhead: Your 10 week transformation into a growth entrepreneur. 
-
 categories: bootcamp
 <!-- image: shuttle.jpg -->
 ---

@@ -103,8 +103,8 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 	<div class="grid-x align-center">
 		<div class="small-6 cell b-ws-top m-ws-bottom">
 			<div class="f-1-25x xs-ws-bottom">"Are we your ideal spot in the universe?"</div>
-			<div class="dbc nm bold">Only proceed further if the answer to the above question is a Yes.</div>
-			<div class="bc">No Cheating. And no Heroism.</div>
+			<h4 class="">Only proceed further if the answer to the above question is a Yes.</h4>
+			<h4 class="bc">No Cheating. And no Heroism.</h4>
 			<div class=" xs-ws-top">After all, you'll only be able to thrive here with Integrity. Towards yourself.</div>
 		</div>
 	</div>
@@ -114,6 +114,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		<div class="grid-x align-center">
 			<div class="large-6 cell m-ws-top">
 				<h3>Want to work with us?</h3>
+				<p>We are always hiring.</p>
 				<div>Open positions: <span class="bkc bold">24</span> </div>
 				<div>Average base salary per employee: <span class="bkc bold">11.4 lakhs</span></div>
 				<div>Average multiple earned (on base) per employee: <span class="bkc bold">1.6</span></div>

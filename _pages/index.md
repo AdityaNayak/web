@@ -60,62 +60,6 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 		</div>
 	</div>
 </div>
-<div class="wbg">
-	<div class="grid-container">
-		<div class="grid-x align-center">
-			<div class="small-12 medium-10 align-center large-6 cell m-ws-top m-ws-bottom">
-				<div class="form-home">
-					<div class="step0">
-						<div class="scolor f-1-25x">Want to learn the process that helps us 10x?</div>
-						<h4 class="bkc bold nm">10-week Growth Bootcamp for Entrepreneurs</h4>
-						<div class="scolor s-ws-bottom">An online free course, delivered as 1 module per week to your inbox.</div>
-						<div class="button nm cta0">Yes, I am in</div>
-					</div>
-					<div class="step1" style="display: none;">
-						<div class="f-1-5x bold bkc">This is going to be different.</div>
-						<!-- <h5 class="scolor processing">You may take the bootcamp at your pace; <br> But only with an intensity that is appropriate of your desire for growth.</h5> -->
-					</div>
-					<div class="stepp" style="display: none;">
-						<!-- <div class="done" style="display:none;">Your ICO Starter Pack has been sent to your inbox</div>					 -->
-						<div class="progress warning" role="progressbar" tabindex="0" aria-valuenow="50" aria-valuemin="0" aria-valuetext="50 percent" aria-valuemax="100">
-						  <div class="progress-meter" style="width: 10%"></div>
-						</div>
-					</div>
-					<div class="step2" style="display:none;">
-						<div class="scolor f-1-25x">The ask is for you to approach it with</div>
-						<h4 class="dbc nm"><span class="bold">Integrity.</span> In intent, action and spirit.</h4>
-					</div>
-					<div class="step2a" style="display: none;">
-						<div class="bc f-1-5x s-ws-top-p bold nm">Promise?</div>
-						<div class="scolor f-1-25x">Tell us where to send it to you.</div>
-					</div>
-					<div class="step3" style="display:none;">
-						<div class="grid-x">
-							<div class="large-6 medium-9 small-12 cell">
-								<form class="m-ws-top cta-main2" action="http://forms.hubspot.com/uploads/form/v2/4557883/cce5015e-b995-4d7d-9c51-99762a47316a" method="POST">
-									<label class="bkc">Your Name
-										<input type="text" class="funame" placeholder="What should we call you?">
-									</label>
-									<label class="bkc">Your Email
-										<input type="email" class="email-val" placeholder="Let us know where to reach you">
-									</label>
-									<label class="bkc">Your Product Website
-										<input type="url" class="purl" placeholder="Only needed if you'd like us to customize your path">
-									</label>
-									<input type="submit" class="button fullwidth nm" value="Sign me up" />
-								</form>
-							</div>
-						</div>
-					</div>
-					<div class="step4" style="display: none;">
-						<div class="bkc f-1-5x bold nm">Awesome!</div>
-						<div class="scolor f-1-25x">Your first module is on its way. Bootcamp is still incomplete and a function of market demand. If you find the first module helpful, please place a request for more.</div>
-					</div>
-				</div>	
-			</div>
-		</div>
-	</div>
-</div>
 <div class="llgbg">
 	<div class="grid-container">
 		<div class="grid-x align-center">
