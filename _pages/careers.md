@@ -94,14 +94,17 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 </div>
 <div class="grid-container">
 	<div class="grid-x align-center">
-		<div class="large-8 cell">
-			<iframe src="https://www.thevantageproject.com/playbook/hello.pdf" width="960" height="480" frameborder="0" marginwidth="0" marginheight="0" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+		<div class="large-8 medium-10 small-12 cell">
+			<div class="responsive-embed">
+				<iframe src="//www.slideshare.net/slideshow/embed_code/key/CPkX1q4raThY7" width="960" height="480" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+			</div>
+			<!-- <iframe src="https://www.thevantageproject.com/playbook/hello.pdf" width="960" height="480" frameborder="0" marginwidth="0" marginheight="0" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> -->
 		</div>
 	</div>
 </div>
 <div class="grid-container">
 	<div class="grid-x align-center">
-		<div class="small-6 cell b-ws-top m-ws-bottom">
+		<div class="small-12 medium-6 cell b-ws-top m-ws-bottom">
 			<div class="f-1-25x xs-ws-bottom">"Are we your ideal spot in the universe?"</div>
 			<h4 class="">Only proceed further if the answer to the above question is a Yes.</h4>
 			<h4 class="bc">No Cheating. And no Heroism.</h4>
@@ -144,7 +147,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<div>Recommended Read: <a class="btn" href="{{site.url}}/playbook">The Playbook</a></div>
 			</div>
 		</div>
-		<div class="grid-x align-center">
+		<!-- <div class="grid-x align-center">
 			<div class="large-8 cell m-ws-top m-ws-bottom">
 				<div class="grid-x grid-padding-x align-center">
 					<div class="large-3 cell">
@@ -161,7 +164,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 	</div>
 </div>
 <div class="grid-container">

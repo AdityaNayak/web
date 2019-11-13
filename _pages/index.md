@@ -11,7 +11,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 <div class="ssbg b-ws-top-p">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x">
-			<div class="cell large-offset-3 small-3">
+			<div class="cell large-offset-3 large-3 medium-offset-2 medium-4 small-8 small-offset-2">
 				<a href="{{site.url}}">
 					<div class="grid-x grid-padding-x">
 						<div class="small-3 cell np">
@@ -23,7 +23,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 					</div>
 				</a>
 			</div>
-			<div class="small-6 cell m-ws-top">
+			<div class="small-12 medium-6 cell m-ws-top">
 				<ul class="menu align-right hover">
 	        <!-- <li><a href="https://meetings.hubspot.com/aditya16" class="button">Let's talk</a></li> -->
 	<!--         <li><a href="{{site.url}}/blog" class="dbc">Blog</a></li> -->
@@ -79,7 +79,7 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 	</div>
 </div>
 <div class="lgbg s-ws-top-p s-ws-bottom-p">
-	<div class="grid-x">
+	<div class="grid-x grid-padding-x">
 		<div class="small-12 medium-8 medium-offset-1 large-4 large-offset-3 cell">
 			<p class="f-1-5x nm bc bold">Sounds relevant?</p>
 			<p class="f-1-25x nm">Let's get to know each other</p>
