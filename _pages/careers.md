@@ -69,7 +69,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<h3>Why do we do it, You ask?</h3>
 				<p class="nm">Ethical wealth creation is possible. And poverty is the worst form of evil. </p>
 				<p>Purpose of wealth is freedom. We wish everyone to be free.</p> 
-        <p class="bc">We offer guidance, affordance and structure. Energy and Discipline is yours to bring.</
+        <p class="bc">We offer guidance, affordance and structure. Energy and Discipline is yours to bring.</p>
 				<!-- <p>Want details? Go here: <a href="https://docs.google.com/document/d/1dOqyF4mmEuu_XkOBtJ_GdV-4JSYke5xui6cOiMcOblo/edit#">Why | The Vantage Project</a></p> -->
 			</div>
 		</div>
