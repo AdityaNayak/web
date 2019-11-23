@@ -54,7 +54,7 @@ description: It’s hard to build the right development team for your project, b
 			<ol>
 				<li class="s-ws-top"><div class="bkc bold f-1-25x">Engineering Throughput <!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>We regularly contribute our spare tech bandwidth to projects we believe in. We also end up recruit entire teams frequently, just for the cause.</li>
 				<li class="s-ws-top"><div class="bkc bold f-1-25x">Ecosystem Acceleration<!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>It is only natural for us to champion projects we believe in + we use our expertise in growth to drive exponential adoption.</li>
-				<li class="s-ws-top"><div class="bkc bold f-1-25x">Capital</div>Usually money is the least of challenges that exist on the path to success. But when it isn't, we step in.</li>
+				<li class="s-ws-top"><div class="bkc bold f-1-25x">Capital</div>Usually, money is the least of challenges that exist on the path to success. But when it isn't, we step in.</li>
 			</ol>
 		</div>
 	</div>
