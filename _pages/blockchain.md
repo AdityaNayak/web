@@ -52,9 +52,9 @@ description: It’s hard to build the right development team for your project, b
 			<!-- <p class="s-ws-top">The future is beautiful. It is abundant. And it is for everyone. We believe that we must do all that we can to accelerate it. And in this case, more is less. We must help as many entrepreneurs push forward as we can. And that is what we have set out to do.</p> -->
 			<h4 class="xs-ws-top">We contribute with:</h4>
 			<ol>
-				<li class="s-ws-top"><div class="bkc bold f-1-25x">Engineering Throughput <!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>We augment your tech backbone. And offer predictable delivery timelines at lower stress.</li>
-				<li class="s-ws-top"><div class="bkc bold f-1-25x">Ecosystem Acceleration<!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>Is your marketing limited to community management? We can help you see your pot of gold.</li>
-				<li class="s-ws-top"><div class="bkc bold f-1-25x">Capital</div>Details coming soon</li>
+				<li class="s-ws-top"><div class="bkc bold f-1-25x">Engineering Throughput <!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>We regularly contribute our spare tech bandwidth to projects we believe in. We also end up recruit entire teams frequently, just for the cause.</li>
+				<li class="s-ws-top"><div class="bkc bold f-1-25x">Ecosystem Acceleration<!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>It is only natural for us to champion projects we believe in + we use our expertise in growth to drive exponential adoption.</li>
+				<li class="s-ws-top"><div class="bkc bold f-1-25x">Capital</div>Usually money is the least of challenges that exist on the path to success. But when it isn't, we step in.</li>
 			</ol>
 		</div>
 	</div>
