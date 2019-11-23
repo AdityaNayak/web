@@ -40,9 +40,9 @@ description: It’s hard to build the right development team for your project, b
 	<div class="grid-container">
 	<div class="grid-x">
 		<div class="small-12 medium-10  large-8 large-offset-3 medium-offset-2 cell b-ws-top b-ws-top-p">
-			<h2 class="">Building ecosystems of the next Tech.</h2>
+			<h2 class="">Building ecosystems of the next Tech</h2>
 			<!-- <div class="f-1-25x">With</div> -->
-			<h4 class="bc ">Our attempts to help get to the future faster.</h4>
+			<h4 class="bc ">Our attempts to help humanity get to the future faster</h4>
 		</div>
 	</div>
 	<div class="grid-x">
