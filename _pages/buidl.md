@@ -40,9 +40,9 @@ description: It’s hard to build the right development team for your project, b
 	<div class="grid-container">
 	<div class="grid-x">
 		<div class="small-12 medium-10  large-8 large-offset-3 medium-offset-2 cell b-ws-top b-ws-top-p">
-			<h2 class="">Building ecosystems of the next Tech.</h2>
+			<h2 class="">Building ecosystems of the next Tech</h2>
 			<!-- <div class="f-1-25x">With</div> -->
-			<h4 class="bc ">Our attempts to help get to the future faster.</h4>
+			<h4 class="bc ">Our attempts to help humanity get to the future faster</h4>
 		</div>
 	</div>
 	<div class="grid-x">
@@ -52,9 +52,9 @@ description: It’s hard to build the right development team for your project, b
 			<!-- <p class="s-ws-top">The future is beautiful. It is abundant. And it is for everyone. We believe that we must do all that we can to accelerate it. And in this case, more is less. We must help as many entrepreneurs push forward as we can. And that is what we have set out to do.</p> -->
 			<h4 class="xs-ws-top">We contribute with:</h4>
 			<ol>
-				<li class="s-ws-top"><div class="bkc bold f-1-25x">Engineering Throughput <!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>We augment your tech backbone. And offer predictable delivery timelines at lower stress.</li>
-				<li class="s-ws-top"><div class="bkc bold f-1-25x">Ecosystem Acceleration<!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>Is your marketing limited to community management? We can help you see your pot of gold.</li>
-				<li class="s-ws-top"><div class="bkc bold f-1-25x">Capital</div>Details coming soon</li>
+				<li class="s-ws-top"><div class="bkc bold f-1-25x">Engineering Throughput <!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>We regularly contribute our spare + (sometimes) dedicated engineering bandwidth to projects we believe in. </li>
+				<li class="s-ws-top"><div class="bkc bold f-1-25x">Ecosystem Acceleration<!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>We champion, advocate and evangelise + use our expertise in growth to drive adoption for projects we believe in.</li>
+				<li class="s-ws-top"><div class="bkc bold f-1-25x">Capital</div>Usually, money is the least of challenges that exist on the path to success. But when it isn't, we step in.</li>
 			</ol>
 		</div>
 	</div>
