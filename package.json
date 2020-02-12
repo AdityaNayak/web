@@ -6,7 +6,8 @@
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.1",
-    "motion-ui": "^1.2.3"
+    "motion-ui": "^1.2.3",
+    "natives": "^1.1.6"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",

@@ -6,6 +6,7 @@
   a{
 	text-transform: uppercase;
 	font-weight:bold;	
+  // font-size: 0.8em;
     &.active{
       border-bottom:3px solid $lightblue; 
     }
