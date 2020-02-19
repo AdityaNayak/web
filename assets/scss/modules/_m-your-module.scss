@@ -392,6 +392,16 @@ ol,div,li,span,a,p,h2,h3,h4,strong {
 		color:$darkblue;
 		transition: color 0.5s;
 	}
+  
+}
+.hv{
+  transition: all 0.5s;
+  &:hover, &:focus{
+    @extend .scolor3bg;
+    background: #eee;
+    transition: all 0.5s;
+  }
+  
 }
 a{
   &.u{
@@ -686,6 +696,18 @@ svg#i-clock {vertical-align: middle;}
     width: 75%;
   }
 }
+.callout{
+  &.hv{
+    &:hover, &:focus{
+      @extend .lwbg;
+    }
+  }
+  &.b{
+    border:1px solid #eee; 
+    border-bottom: 3px solid #eee; 
+    border-radius: 5px;
+  }
+}
 .angellist_jobs-title-link{
   color: $lightblue !important;
   font-weight: bold !important;
@@ -701,6 +723,62 @@ svg#i-clock {vertical-align: middle;}
     @extend .scolor3;
   }
   .is-active{
+    color: $lightblue;
+  }
+}
+
+.blinking-cursor {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: $lightblue;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: $lightblue;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: $lightblue;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: $lightblue;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: $lightblue;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
     color: $lightblue;
   }
 }
