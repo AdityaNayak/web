@@ -392,6 +392,16 @@ ol,div,li,span,a,p,h2,h3,h4,strong {
 		color:$darkblue;
 		transition: color 0.5s;
 	}
+  
+}
+.hv{
+  transition: all 0.5s;
+  &:hover, &:focus{
+    @extend .scolor3bg;
+    background: #eee;
+    transition: all 0.5s;
+  }
+  
 }
 a{
   &.u{
@@ -684,6 +694,18 @@ svg#i-clock {vertical-align: middle;}
 .callout3{
   img{
     width: 75%;
+  }
+}
+.callout{
+  &.hv{
+    &:hover, &:focus{
+      @extend .lwbg;
+    }
+  }
+  &.b{
+    border:1px solid #eee; 
+    border-bottom: 3px solid #eee; 
+    border-radius: 5px;
   }
 }
 .angellist_jobs-title-link{
