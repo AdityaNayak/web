@@ -1,5 +1,5 @@
 ---
-permalink: /buidl/
+permalink: /x/
 layout: bare
 title: Buidl Labs
 <!-- image: bg2.jpg -->
@@ -15,10 +15,13 @@ description: It’s hard to build the right development team for your project, b
 								<img src="{{site.url}}/assets/img/gun.svg" style="margin-top:0.25em">
 							</a>
 						</div> -->
-					<div class="small-12 shrink cell">
+					<div class="small-5 shrink cell" style="border-right: 1px solid #dedede;">
 							<a href="{{site.url}}">
-								<h2 class="sans2 bkc" style="line-height:1;">BUIDL Labs <span class="blinking-cursor">|</span></h2>
+								<h2 class="sans2 bkc" style="line-height:1;">The <br> Vantage <br>Project</h2>
 							</a>
+						</div>
+<div class="small-4 cell" >
+							<h1 class="sans2 bold bc" style=" margin-top: 0.25em;">X Labs</h1>
 						</div>
 </div>
 			</div>

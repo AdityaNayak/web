@@ -699,7 +699,10 @@ svg#i-clock {vertical-align: middle;}
 .callout{
   &.hv{
     &:hover, &:focus{
-      @extend .lwbg;
+      @extend .llgbg;
+      // border-right:1px solid #eee;
+      margin-top: -1px;
+      border-bottom: 4px solid #eee;
     }
   }
   &.b{

@@ -5,7 +5,7 @@ title: Buidl Labs
 <!-- image: bg2.jpg -->
 description: It’s hard to build the right development team for your project, but you’re in the right place.
 ---
-<div class="robotwbg b-ws-top-p">
+<div class=" b-ws-top-p">
 	<div class="grid-container">
 		<div class="grid-x">
 			<div class="large-3 large-offset-3 medium-4 medium-offset-2 small-8 small-offset-2 cell s-ws-top">
@@ -15,16 +15,13 @@ description: It’s hard to build the right development team for your project, b
 								<img src="{{site.url}}/assets/img/gun.svg" style="margin-top:0.25em">
 							</a>
 						</div> -->
-					<div class="small-5 shrink cell" style="border-right: 1px solid #dedede;">
-							<a href="{{site.url}}">
-								<h2 class="sans2 bkc" style="line-height:1;">The <br> Vantage <br>Project</h2>
-							</a>
-						</div>
-<div class="small-4 cell" >
-							<h1 class="sans2 bold bc" style=" margin-top: 0.25em;">BUIDL Labs</h1>
-						</div>
-</div>
-			</div>
+					<!-- <div class="small-12 shrink cell">
+						<a href="{{site.url}}" class="f-1-25x">
+							<h1 class="sans2 bkc" style="line-height:1;">BUIDL Labs <span class="blinking-cursor">|</span></h1>
+						</a>
+					</div> -->
+				</div>
+		</div>
 		<div class="small-12 medium-6 cell s-ws-top xs-ws-top-p">
 			<ul class="menu align-right hover">
 	      <!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li>
@@ -32,50 +29,31 @@ description: It’s hard to build the right development team for your project, b
       	<li><a href="{{site.url}}/careers" class="dbc">Careers</a></li>
         <li><a href="{{site.url}}/playbook" class="dbc">Playbook</a></li>
         <!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li> -->
-        <li><a href="{{site.url}}/buidl" class="dbc active">Buidl</a></li>
+        <li><a href="{{site.url}}/blog" class="dbc active">Blog</a></li>
 	    </ul>
 		</div>
 	</div>
 	</div>
 	<div class="grid-container">
 	<div class="grid-x">
-		<div class="small-12 medium-10  large-8 large-offset-3 medium-offset-2 cell b-ws-top b-ws-top-p">
-			<h2 class="">Building ecosystems of the next Tech</h2>
+		<div class="small-12 medium-10  large-8 large-offset-3 medium-offset-2 cell">
+			<h1 class="sans2 bkc f-4x s-ws-bottom" style="line-height:1;">BUIDL Labs <span class="blinking-cursor">|</span></h1>
+			<h2 class="">Building infrastructure for the new decentralized world</h2>
 			<!-- <div class="f-1-25x">With</div> -->
-			<h4 class="bc ">Our attempts to help humanity get to the future faster</h4>
+			<h4 class="bc ">Our contribution to help humanity get to the future faster</h4>
 		</div>
 	</div>
 	<div class="grid-x">
 		<div class="small-12 medium-10 medium-offset-2 large-8 large-offset-3 cell m-ws-top m-ws-bottom">
-			<p class="bkc nm f-1-25x">We like buidling, especially sans the pressure of business viability.</p>
-			<p>Buidl labs is a place for our experiments in Blockchain and AI.</p>
+			<p class="bkc nm f-1-25x">We like building, especially sans the pressure of business viability.</p>
+			<!-- <p>Buidl labs is a place for our experiments in Blockchain and AI.</p> -->
 			<!-- <p class="s-ws-top">The future is beautiful. It is abundant. And it is for everyone. We believe that we must do all that we can to accelerate it. And in this case, more is less. We must help as many entrepreneurs push forward as we can. And that is what we have set out to do.</p> -->
-			<h4 class="xs-ws-top">We contribute with:</h4>
-			<ol>
-				<li class="s-ws-top"><div class="bkc bold f-1-25x">Engineering Throughput <!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>We regularly contribute our spare + (sometimes) dedicated engineering bandwidth to projects we believe in. </li>
-				<li class="s-ws-top"><div class="bkc bold f-1-25x">Ecosystem Acceleration<!-- <a class="btn small nm" href="https://meetings.hubspot.com/aditya16" target="_blank">Hire us</a> --></div>We champion, advocate and evangelise + use our expertise in growth to drive adoption for projects we believe in.</li>
-				<li class="s-ws-top"><div class="bkc bold f-1-25x">Capital</div>Usually, money is the least of challenges that exist on the path to success. But when it isn't, we step in.</li>
-			</ol>
-		</div>
-	</div>
-</div>
-</div>
-<div class="wbg">
-	<div class="grid-container">
-	<div class="grid-x align-center">
-		<div class="small-12 medium-10 medium-centered large-6 cell m-ws-top">
-			<p class="bkc s-ws-top f-1-25x">
-Building a business in a new technological paradigm is hard with the odds stacked against the daring pioneers. We help them improve those odds by contributing engineering and growth bandwidth to the projects we believe in. It's our way of saying, we believe in you.
-</p>
-<p class="f-1-25x">  
-We spend significant time and mindspace on helping other pioneers win. For all human progress rests on the initiative of the daring. And we spend a part of our time building products, for others. In Service and with Gratitude.
-			</p>
-		</div>
-	</div>
-	<div class="grid-x align-center">
-		<div class="small-12 medium-10 medium-centered large-6 cell s-ws-top">
-			<!-- <p class="dbc f-1-25x nm">We do so with capital, state of mind and execution.</p> -->
-			<p class="f-1-25x bc s-ws-bottom">For sometimes, execution and unflinching belief are more important.</p>
+			<!-- <h4 class="xs-ws-top">We contribute with:</h4> -->
+			<!-- <ol> -->
+				<!-- <li class="s-ws-top"><div class="bkc bold f-1-25x">Engineering Throughput</div>We regularly contribute our spare + (sometimes) dedicated engineering bandwidth to projects we believe in. </li>
+				<li class="s-ws-top"><div class="bkc bold f-1-25x">Ecosystem Acceleration</div>We champion, advocate and evangelise + use our expertise in growth to drive adoption for projects we believe in.</li> -->
+				<!-- <li class="s-ws-top"><div class="bkc bold f-1-25x">Capital</div>Usually, money is the least of challenges that exist on the path to success. But when it isn't, we step in.</li> -->
+			<!-- </ol> -->
 		</div>
 	</div>
 </div>
@@ -137,23 +115,26 @@ We spend significant time and mindspace on helping other pioneers win. For all h
 	<div class="grid-container">
 	<div class="grid-x align-center">
 		<div class="small-12 large-6 medium-6 medium-centered cell m-ws-top">
-			<h4 class="dbc bold">Contributing to:</h4>
+			<h4 class="dbc bold">Currently Contributing to:</h4>
 		</div>
 	</div>
 	<div class="grid-x align-center">
-		<div class="small-12 large-centered large-6 cell cell m-ws-bottom">
-			<div class="grid-x small-up-4 medium-up-4 large-up-4">
+		<div class="small-12 large-centered large-8 medium-10 cell cell m-ws-bottom">
+			<div class="grid-x small-up-5 medium-up-5 large-up-5">
 			  <div class="cell cell-block">
 			    <img src="{{site.url}}/assets/img/logo/polka.svg" class="b-ws-top">
 			  </div>
 			  <div class="cell cell-block">
 			    <img src="{{site.url}}/assets/img/logo/eth.png">
 			  </div>
-			  <div class="cell cell-block">
-			    <img src="{{site.url}}/assets/img/logo/interchain.png">
+			  <div class="cell cell-block text-center">
+			    <img src="{{site.url}}/assets/img/logo/foam.png" class="img-h m-ws-top">
 			  </div>
 			  <div class="cell cell-block">
 			    <img src="{{site.url}}/assets/img/logo/zcash.png" class="m-ws-top">
+			  </div>
+			  <div class="cell cell-block text-center">
+			    <img src="{{site.url}}/assets/img/logo/tezos.jpg" class="img-h m-ws-top">
 			  </div>
 			</div>
 		</div>
@@ -343,31 +324,50 @@ We spend significant time and mindspace on helping other pioneers win. For all h
 		</div>
 	</div>
 </div> -->
-<div class="robotbg">
+<div class="lgbg">
 	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="small-12 medium-10 medium-centered large-6 cell b-ws-top b-ws-bottom">
+				<div class="grid-x">
+					<div class="small-5 cell">
+						Proudly powered by
+						<a href="{{site.url}}">
+							<h2 class="sans2 bkc f-2x" style="line-height:1;">The <br> Vantage <br>Project</h2>
+						</a>
+					</div>
+					<div class="small-7 cell ">
+						<a class="button b-ws-top" href="https://www.thevantageproject.com/" target="_blank">Discover TVP</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="grid-container">
 	<div class="grid-x align-center">
-		<div class="small-12 medium-10 medium-centered large-6 cell f-1-25x b-ws-top">
-		<h3 class="">We are different</h3>
+		<div class="small-12 medium-10 medium-centered large-6 cell b-ws-top b-ws-bottom">
+		<h4 class="">We are different</h4>
 		<p class="bkc">We are built on a foundation of betting on people, playing for integrity and existing in a state of service.</p>
 		<p>We take significant effort into scouting, recruiting and nurturing exceptional talent within the team and in return we get access to the most kickass problem solvers available. Each member is afforded a space for growth and momentum in an environment that is geared towards problem solving; including but not limited to their skill sets. This way each project receives that exceptionally aligned and dependable backbone that it deserves.</p>
 		</div>
 	</div>
-	</div>
-	<!-- <div class="grid-x">
-		<div class="small-12 medium-10 medium-centered large-6 cell cell text-center small-centered b-ws-top b-ws-bottom">
-			<div class="f-2x bkc bold">We can help</div>
-			<p class="f-1-25x">It's free and about you.</p>
-			<a href="https://meetings.hubspot.com/aditya16" class="button large">Schedule a 30 min consultation</a>
-		</div>
-	</div> -->
+</div>
+<div class="lgbg">
 	<div class="grid-container">
-	<div class="grid-x align-center">
-		<div class="small-12 large-6 cell b-ws-top">
-			<p class="f-1-5x nm bold bkc">Need our help?</p>
-			<p class="f-1-25x">Feel free to ping us</p>
-			<div class="m-ws-bottom"><a class="button large" href="https://meetings.hubspot.com/aditya16" target="_blank">Let's Talk</a></div>
+		<div class="grid-x align-center">
+			<div class="small-12 medium-10 medium-centered large-6 cell b-ws-top b-ws-bottom">
+				<div class="grid-x">
+					<div class="small-5 cell">
+						<h4 class="nm">Need our help?</h4>
+						<p class="">Feel free to ping us</p>
+					</div>
+					<div class="small-7 cell ">
+						<a class="button small" href="https://calendly.com/prastut/30min" target="_blank">Let's Talk</a>
+					</div>
+				</div>
+			</div>
+			<div class="m-ws-bottom"></div>
 			<img src="{{site.url}}/assets/img/crawler.jpg" class="b-ws-top">
 		</div>
 	</div>
-</div>
 </div>
