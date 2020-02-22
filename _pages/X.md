@@ -32,7 +32,7 @@ description: It’s hard to build the right development team for your project, b
       	<li><a href="{{site.url}}/careers" class="dbc">Careers</a></li>
         <li><a href="{{site.url}}/playbook" class="dbc">Playbook</a></li>
         <!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li> -->
-        <li><a href="{{site.url}}/buidl" class="dbc active">Buidl</a></li>
+        <li><a href="{{site.url}}/x" class="dbc active">X</a></li>
 	    </ul>
 		</div>
 	</div>

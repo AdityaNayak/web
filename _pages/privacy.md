@@ -31,7 +31,7 @@ image: bg2.jpg
         <li><a href="{{site.url}}/careers" class="dbc">Careers</a></li>
         <li><a href="{{site.url}}/playbook" class="dbc">Playbook</a></li>
         <!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li> -->
-        <li><a href="{{site.url}}/buidl" class="dbc">Buidl</a></li>
+        <li><a href="{{site.url}}/x" class="dbc">X</a></li>
       </ul>
     </div>
     </div>
