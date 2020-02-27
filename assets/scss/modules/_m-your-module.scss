@@ -187,6 +187,9 @@ ol,div,li,span,a,p,h2,h3,h4,strong {
 .img-h{
 	width:50%;
 }
+.img-p{
+  width:75%;
+}
 .xs-ws-top{
 	margin-top:0.5em;
 }
@@ -394,7 +397,7 @@ ol,div,li,span,a,p,h2,h3,h4,strong {
 	}
   
 }
-.hv{
+.callout.hv{
   transition: all 0.5s;
   &:hover, &:focus{
     @extend .scolor3bg;

@@ -42,8 +42,8 @@ plugins:             ["jekyll-sitemap", "jekyll-paginate"]
 incremental:      true
 
 # Serving
-# url: http://127.0.0.1.xip.io:3000
-url:            "https://www.thevantageproject.com"
+url: http://127.0.0.1.xip.io:3000
+# url:            "https://www.thevantageproject.com"
 # url: https://thevantageproject.github.io/web
 # baseurl:        "" # does not include hostname
 

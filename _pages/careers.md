@@ -6,7 +6,7 @@ image: team.jpg
 n: jobs
 description: We are kickass problem solvers. We hire, develop and cut to ensure champions in every position.
 ---
-<div class="helmetbg b-ws-top-p">
+<div class="helmetbg b-ws-top-p b-ws-bottom-p">
 	<div class="grid-container">
 		<div class="grid-x">
 			<div class="large-3 large-offset-3 medium-4 medium-offset-2 small-8 small-offset-2 cell s-ws-top">
@@ -44,50 +44,50 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<!-- <h4 class="bkc">We're a high-performance team, not a family.</h4>
 				<p class="b-ws-top">Families are structured for companionship. We are structured like a sports team; <span class="bkc f-1-25x">Built to Win.</span> </p> -->
 				<h2 class="m-ws-top">We hire, develop and cut to ensure champions in every position.</h2>
-				<h4 class=" bc"> In most companies, average performance gets an adequate raise.</h4>
-				<h4 class=" bc"> At The Vantage Project, average performance gets an intervention.</h4>
+				<h4 class=" bc">In most companies, mediocrity is adequate.</h4>
+				<h4 class=" bc">At TVP, living life uninspired gets an intervention.</h4>
 			</div>
 			<div class="small-12 medium-10 large-6 cell large-offset-3 medium-offset-2">
-				<p class="">For us, the cost of having adequate in any position is simply too large, when we could have extraordinary. We work hard to ensure that all our team is working to be their 10x potential.</p>
+				<p class="">For us, the cost of having adequate in any position is simply too large, when we could have extraordinary. We work hard to ensure that all individuals are operating at peak performance. That's our edge.</p>
 			</div>
 		</div>
 	</div>
 	<div class="grid-container">
 		<div class="grid-x align-center">
 			<div class="large-6 cell b-ws-top">
-				<h3>Who are we?</h3>
+				<h4>Who are we.</h4>
 					<p>The Vantage project is the base protocol that enables the next generation of entrepreneurs to build their startups faster. We tilt the odds in favor of entrepreneurs by offering a lower risk, high growth and high yield path to building companies without having to depend on external capital. Sometimes we act as investors in existing businesses but more often we do so ourselves, with someone from our team (usually multiple) choosing to chase their entrepreneurial dreams. </p>
 					<div class="s-ws-top">Founded: <span class="bold bkc">2019</span> <span class="scolor2 s2">(earlier Mutiny Labs)</span></div>
-					<div>Team Size: <span class="bold bkc">8</span></div>
-					<div>Avg. team size of our portfolio: <span class="bold bkc">72</span></div>
+					<!-- <div>Team Size: <span class="bold bkc">8</span></div> -->
+					<!-- <div>Avg. team size of our portfolio: <span class="bold bkc">72</span></div> -->
 			</div>
 		</div>
 	</div>
 	<div class="grid-container">
 		<div class="grid-x align-center">
 			<div class="large-6 cell b-ws-top">
-				<h3>Why do we do it, You ask?</h3>
+				<h4>Why do we do it, You ask.</h4>
 				<p class="nm">Ethical wealth creation is possible. And poverty is the worst form of evil. </p>
-				<p>Purpose of wealth is freedom. We wish everyone to be free.</p> 
-        <p class="bc">We offer guidance, affordance and structure. Energy and Discipline is yours to bring.</p>
+				<p>Purpose of wealth is freedom. <span class="bold bkc">We wish for everyone to be free.</span></p> 
+        <!-- <p class="bc">We offer guidance, affordance and structure. Energy and Discipline is yours to bring.</p> -->
 				<!-- <p>Want details? Go here: <a href="https://docs.google.com/document/d/1dOqyF4mmEuu_XkOBtJ_GdV-4JSYke5xui6cOiMcOblo/edit#">Why | The Vantage Project</a></p> -->
 			</div>
 		</div>
 	</div>
 </div>
 <div class="grid-container">
-	<div class="grid-x align-center">
-		<div class="large-6 cell m-ws-top b-ws-bottom">
-			<h3>Our value system</h3>
-			<p>We value our team above everything else. We continuously hire, develop and cut to ensure champions in every position.</p>
-			<p>The benefit of a high-performance culture is that you experience the exhilaration of being your 10x version. And so do we.</p>
+	<div class="grid-x align-center b-ws-top-p b-ws-bottom-p">
+		<div class="large-6 cell">
+			<h4>Why should you consider us</h4>
+			<!-- <p>We value our team above everything else. We continuously hire, develop and cut to ensure champions in every position.</p> -->
+			<p>The benefit of a high-performance culture is that you experience the exhilaration of being your greatest version. And so do we. Being around other high performers is an unbeatable advantage.</p>
 			<blockquote class="bkc f-1-25x">A great workplace is not how many perks are offered; <br> It is how stunning the colleagues are.</blockquote>
 			<div class="text-right"><a class="scolor s2" href="https://www.fastcompany.com/3027124/lessons-learned/netflixs-major-hr-innovation-treating-humans-like-people"> - Stolen from Netflix's philosophy</a></div>
 		</div>
 	</div>
 </div>
 <div class="grid-container">
-	<div class="grid-x align-center">
+	<div class="grid-x align-center m-ws-topws-bottom">
 		<div class="large-6 cell">
 		<h4>Meet our hello deck</h4>
 		</div>
@@ -113,16 +113,17 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		</div>
 	</div>
 </div>
-<div class="lgbg">
+<div class="lgbg b-ws-top-p b-ws-bottom-p">
 	<div class="grid-container">
 		<div class="grid-x align-center">
-			<div class="large-6 cell m-ws-top">
-				<h3>Want to work with us?</h3>
-				<p>We are always hiring.</p>
+			<div class="large-6 cell">
+				<h4>Want to work with us?</h4>
+				<p class="bold bkc nm">1. Understand what you are getting into: <a href="https://www.thevantageproject.com/playbook/#apply" target="_blank" class="s ibtn">Applying to TVP | Playbook</a></p>
+				<!-- <p>We are always hiring.</p>
 				<div>Open positions: <span class="bkc bold">24</span> </div>
 				<div>Average base salary per employee: <span class="bkc bold">11.4 lakhs</span></div>
 				<div>Average multiple earned (on base) per employee: <span class="bkc bold">1.6</span></div>
-				<div class="m-ws-bottom">Highest payout in last 12 months: <span class="bkc bold">~32 lakhs</span></div>
+				<div class="m-ws-bottom">Highest payout in last 12 months: <span class="bkc bold">~32 lakhs</span></div> -->
 				<!-- <h4 class="">Currently recruiting for:</h4> -->
 				<!-- <div class="grid-x">
 					<div class="small-3 cell">
@@ -136,16 +137,16 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 					</div>
 				</div> -->
 				<!-- <h4 class="m-ws-top">View all positions</h4> -->
-				<a href="https://angel.co/the-vantage-project/jobs" class="button">View open Positions</a>
+				<p>2. Get to it: <a href="https://angel.co/the-vantage-project/jobs" class="ibtn s">View open Positions</a></p>
 			</div>
 		</div>
 	</div>
 	<div class="grid-container">
 		<div class="grid-x align-center">
-			<div class="large-6 cell b-ws-top">
-				<h3>Life at The Vantage Project</h3>
+			<div class="large-6 cell s-ws-top">
+				<h4>Life at The Vantage Project</h4>
 				<p>We are currently based in Delhi, India and follow a distributed team structure. <br> HQ at our beautiful office with open lawns (and hopefully with a pool soon) at Qutub Institutional Area and distributed workspaces at-location for our portfolio companies. </p>
-				<div>Recommended Read: <a class="btn" href="{{site.url}}/playbook">The Playbook</a></div>
+				<!-- <div>Recommended Read: <a class="btn" href="{{site.url}}/playbook">The Playbook</a></div> -->
 			</div>
 		</div>
 		<!-- <div class="grid-x align-center">
@@ -168,7 +169,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		</div> -->
 	</div>
 </div>
-<div class="grid-container">
+<!-- <div class="grid-container">
 	<div class="grid-x align-center">
 		<div class="large-6 cell b-ws-top">
 			<h3>Interview Process</h3>
@@ -184,23 +185,23 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<p>3+ references from current and former managers and co-workers.</p></li>
 				<li><h5 class="bkc">Offer </h5>
 				<p>Hopefully, we’ll be able to make you an offer you can’t refuse. </p>
-				<!-- <p> Tip: <a href="https://docs.google.com/document/d/1dOqyF4mmEuu_XkOBtJ_GdV-4JSYke5xui6cOiMcOblo/edit#">How to negotiate an offer at TVP</a></p> -->
+				<p> Tip: <a href="https://docs.google.com/document/d/1dOqyF4mmEuu_XkOBtJ_GdV-4JSYke5xui6cOiMcOblo/edit#">How to negotiate an offer at TVP</a></p>
 				</li>
 				<li><h5 class="bkc">Onboarding</h5>
 				<p>Welcome aboard. The journey to 10x has just begun. The next 12 months are going to be super exciting, and we hope to see you succeed. <br> Further read: <a class="btn" href="{{site.url}}/playbook/#third">Playbook | firstday</a></p></li>
 			</ol>
 		</div>
 	</div>
-</div>
-<div class="grid-container">
+</div> -->
+<!-- <div class="grid-container">
 	<div class="grid-x align-center">
 		<div class="large-6 cell b-ws-top">
 			<h3>Who should apply</h3>
 			<div class="scolor2">Coming Soon</div>
 		</div>
 	</div>
-</div>
-<div class="grid-container">
+</div> -->
+<!-- <div class="grid-container">
 	<div class="grid-x align-center">
 		<div class="large-6 cell b-ws-top b-ws-bottom">
 			<h3>Good reads</h3>
@@ -212,7 +213,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 			</ol>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!-- <div class="grid-x align-center">
 	<div class="small-12 medium-7 large-6  cell m-ws-top">
