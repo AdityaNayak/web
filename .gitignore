@@ -43,6 +43,7 @@ bower_components
 # Jekyll
 _site
 .jekyll-metadata
+.jekyll-cache/
 
 # Vendor directory
 assets/vendor/
@@ -57,3 +58,6 @@ composer.lock
 _config.yml
 config.yml
 CNAME
+=======
+# Misc
+.idea/

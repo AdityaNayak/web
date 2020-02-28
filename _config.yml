@@ -35,7 +35,7 @@ exclude:
 
 # Plugins
 # Add plugins in the Gemfile
-plugins:             ["jekyll-sitemap", "jekyll-paginate"]
+plugins:             ["jekyll-sitemap"]
 
 
 # Conversion

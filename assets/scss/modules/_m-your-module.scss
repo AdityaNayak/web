@@ -620,37 +620,38 @@ code{
     color:#fff;
     -webkit-transition: background-color 200ms linear;
     -ms-transition: background-color 200ms linear;
-    transition: background-color 200ms linear; }
+    transition: background-color 200ms linear; 
 
-.f {
-  color: #3b5998; }
-  .f:hover {
-    background-color: #3b5998; }
+  .f {
+    color: #3b5998; }
+    .f:hover {
+      background-color: #3b5998; }
 
-.t {
-  color: #4099FF; }
-  .t:hover {
-    background-color: #4099FF; }
+  .t {
+    color: #4099FF; }
+    .t:hover {
+      background-color: #4099FF; }
 
-.g {
-  color: #d34836; }
-  .g:hover {
-    background-color: #d34836; }
+  .g {
+    color: #d34836; }
+    .g:hover {
+      background-color: #d34836; }
 
-.r {
-  color: #ff5700; }
-  .r:hover {
-    background-color: #ff5700; }
+  .r {
+    color: #ff5700; }
+    .r:hover {
+      background-color: #ff5700; }
 
-.l {
-  color: #0077b5; }
-  .l:hover {
-    background-color: #0077b5; }
+  .l {
+    color: #0077b5; }
+    .l:hover {
+      background-color: #0077b5; }
 
-.e {
-  color: #444444; }
-  .e:hover {
-    background-color: #444444; }
+  .e {
+    color: #444444; }
+    .e:hover {
+      background-color: #444444; }
+}
 
 svg#i-clock {vertical-align: middle;}
 
@@ -690,6 +691,9 @@ svg#i-clock {vertical-align: middle;}
 }
 .helmet2bg{
   background:#fafafa url('../img/helmet2.jpg') no-repeat; background-position: 0% 90%;
+  &.r{
+    background-position: 100% 30%;
+  }
 }
 .scrollbox{
   overflow: scroll;

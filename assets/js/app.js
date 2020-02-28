@@ -6,10 +6,10 @@
 // Initialize Foundation
 // --------------------------------------------------
 
-// $(document).foundation();
-$(document).on('ready page:load', function () {
-  $(function(){ $(document).foundation(); });
-});
+$(document).foundation();
+// $(document).on('ready page:load', function () {
+//   $(function(){ $(document).foundation(); });
+// });
 
 
 
@@ -211,14 +211,14 @@ $(document).on('ready page:load', function () {
 // }
 // console.log(tempvar);
 // console.log('temp')
-function load_js(){
-  var head= document.getElementsByTagName('head')[0];
-  var script= document.createElement('script');
-  script.src= 'https://js.hs-scripts.com/4557883.js';
-  script.setAttribute("id", "hs-script-loader");
-  head.appendChild(script);
-  console.log('hubspot loaded')
-}
+// function load_js(){
+//   var head= document.getElementsByTagName('head')[0];
+//   var script= document.createElement('script');
+//   script.src= 'https://js.hs-scripts.com/4557883.js';
+//   script.setAttribute("id", "hs-script-loader");
+//   head.appendChild(script);
+//   console.log('hubspot loaded')
+// }
    // id="hs-script-loader" async defer
 // load_js();
 
