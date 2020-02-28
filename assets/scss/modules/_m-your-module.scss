@@ -733,7 +733,8 @@ svg#i-clock {vertical-align: middle;}
     @extend .scolor3;
   }
   .is-active{
-    color: $lightblue;
+    background: $light-gray;
+    color: $darkblue;
   }
 }
 

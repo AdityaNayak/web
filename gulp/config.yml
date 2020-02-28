@@ -48,7 +48,7 @@ javascript:
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.box.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.keyboard.js"
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js"
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.motion.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.nest.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.util.timer.js"
@@ -62,7 +62,7 @@ javascript:
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.interchange.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.toggler.js"
     - "node_modules/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.sticky.js"
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.sticky.js"
 
     # # Foundation Components
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.accordion.js"
