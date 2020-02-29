@@ -41,6 +41,7 @@
   cursor:pointer;
   font-weight:bold;
   // font-size:emCalc(14px);
+  font-size: 14px;  
   // padding:$button-padding;
   &:hover, &:focus{
     color:$button-background-hover;
@@ -51,6 +52,9 @@
     &:hover, &:focus{
       color: $light-gray;
     }
+  }
+  &.block{
+    display: block;
   }
 
 }
