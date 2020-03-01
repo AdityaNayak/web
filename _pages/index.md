@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: bare
-title: Buidl Labs
+<!-- title: Buidl Labs -->
 <!-- image: bg2.jpg -->
 description: Building infrastructure for the new decentralized world
 ---
@@ -105,27 +105,27 @@ description: Building infrastructure for the new decentralized world
 				<div class="grid-x grid-padding-x">
 					<div class="medium-3 small-12 cell m-ws-bottom">
 						<!-- <img src="{{site.url}}/assets/img/leaf.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">Bodhi Crypto Capital</div>
-						<div class="s">An experiment in AI driven algorithmic trading.</div>
-						<a class="ibtn s2">View Project</a>
+						<div class="bkc bold">FOAMViz</div>
+						<div class="s">Visualization efforts over FOAM's Token Curated Registry's data</div>
+						<a class="ibtn s2" href="https://foamviz.surge.sh/" target="_blank">View Project</a>
 					</div>
 					<div class="medium-3 small-12 cell m-ws-bottom">
 						<!-- <img src="{{site.url}}/assets/img/link.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">LinkedChain</div>
-						<div class="s">A stealth project that is internally being called the Zapier for Blockchain</div>
-						<a class="ibtn s2">View Project</a>
+						<div class="bkc bold">PolkaViz</div>
+						<div class="s">Visualization efforts for the Polkadot ecosystem. Currently visualizing action on the Kusama network.</div>
+						<a href="https://polkavizproject.surge.sh/" target="_blank" class="ibtn s2">view project</a>
 					</div>
 					<div class="medium-3 small-12 cell m-ws-bottom">
 						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">Automated P2P exchange</div>
-						<div class="s">Enabling access to crypto abundance for the everyone</div>
-						<a class="ibtn s2">View Project</a>
+						<div class="bkc bold">Polkabot</div>
+						<div class="s">Relaying Polkadot protocol updates on Twitter.</div>
+						<a class="ibtn s2" href="https://twitter.com/Polkabot5" target="_blank">View Project</a>
 					</div>
 					<div class="medium-3 small-12 cell m-ws-bottom">
 						<!-- <img src="{{site.url}}/assets/img/learning.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">ISA Training for blockchain</div>
-						<div class="s">Human capital arbitrage. Knowledge is abundant, it is the desire to learn that is scarce.</div>
-						<a class="ibtn s2">View Project</a>
+						<div class="bkc bold">Zcash SSD</div>
+						<div class="s">A healthcheck + monitoring dashboard for the Zcash community.</div>
+						<a class="ibtn s2" href="https://www.zcashservicestatus.info/" target="_blank">View Project</a>
 					</div>
 				</div>
 			</div>
@@ -136,35 +136,17 @@ description: Building infrastructure for the new decentralized world
 	<div class="grid-container">
 		<div class="grid-x align-center">
 			<div class="small-12 large-6 medium-6 medium-centered cell m-ws-top">
-				<h4 class="dbc bold">Products for the decentralized space:</h4>
+				<h4 class="dbc bold">Experiments for the decentralized space:</h4>
 			</div>
 		</div>
 		<div class="grid-x align-center">
 			<div class="small-12 large-8 medium-10 medium-centered cell s-ws-top">
 				<div class="grid-x grid-padding-x">
-					<div class="medium-3 small-12 cell m-ws-bottom">
-						<!-- <img src="{{site.url}}/assets/img/leaf.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">Bodhi Crypto Capital</div>
-						<div class="s">An experiment in AI driven algorithmic trading.</div>
-						<a class="ibtn s2">View product</a>
-					</div>
-					<div class="medium-3 small-12 cell m-ws-bottom">
-						<!-- <img src="{{site.url}}/assets/img/link.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">LinkedChain</div>
-						<div class="s">A stealth project that is internally being called the Zapier for Blockchain</div>
-						<a class="ibtn s2">View product</a>
-					</div>
-					<div class="medium-3 small-12 cell m-ws-bottom">
+					<div class="medium-6 small-12 cell m-ws-bottom">
 						<!-- <img src="{{site.url}}/assets/img/reload.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">Automated P2P exchange</div>
-						<div class="s">Enabling access to crypto abundance for the everyone</div>
-						<a class="ibtn s2">View product</a>
-					</div>
-					<div class="medium-3 small-12 cell m-ws-bottom">
-						<!-- <img src="{{site.url}}/assets/img/learning.png" class="xs-ws-bottom"> -->
-						<div class="bkc bold">ISA Training for blockchain</div>
-						<div class="s">Human capital arbitrage. Knowledge is abundant, it is the desire to learn that is scarce.</div>
-						<a class="ibtn s2">View product</a>
+						<div class="bkc bold">PolkaAnalytics</div>
+						<div class="s">Aiming to provide high integrity & structured info for @polkadotnetwork. Combines visual analytics + rewards calculation under one hood.</div>
+						<a class="ibtn s2" href="https://polkanalytics.com/#/dashboard" target="_blank">View Product</a>
 					</div>
 				</div>
 			</div>
