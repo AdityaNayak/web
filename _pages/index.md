@@ -27,10 +27,10 @@ description: Building infrastructure for the new decentralized world
 				<ul class="menu align-right hover">
 	      <!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li>
 	      	<li><a href="{{site.url}}/blockchain" class="dbc">Blockchain</a></li> -->
-	      	<li><a href="{{site.url}}/careers" class="dbc">Careers</a></li>
+<!-- 	      	<li><a href="{{site.url}}/careers" class="dbc">Careers</a></li> -->
 	      	<li><a href="https://www.thevantageproject.com/playbook/" class="dbc">Playbook</a></li>
 	      	<!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li> -->
-	      	<li><a href="{{site.url}}/blog" class="dbc">Blog</a></li>
+<!-- 	      	<li><a href="{{site.url}}/blog" class="dbc">Blog</a></li> -->
 	      </ul>
 	    </div>
 	  </div>
