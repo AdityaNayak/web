@@ -12,22 +12,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		<div class="grid-x">
 			<div class="large-3 large-offset-3 medium-4 medium-offset-2 small-8 small-offset-2 cell s-ws-top">
 				<div class="grid-x ">
-					<!-- <div class="small-3 cell np">
-							<a href="{{site.url}}">
-								<img src="{{site.url}}/assets/img/gun.svg" style="margin-top:0.25em">
-							</a>
-						</div> -->
-					<!-- <div class="small-12 shrink cell">
-						<a href="{{site.url}}" class="f-1-25x">
-							<h1 class="sans2 bkc" style="line-height:1;">BUIDL Labs <span class="blinking-cursor">|</span></h1>
-						</a>
-					</div> -->
-					<!-- <div class="small-3 cell np">
-            <a href="{{site.url}}">
-           -->    <!-- <img src="{{site.url}}/assets/img/vantage-logo-full.png" style="margin-top:0.25em"> -->
-          <!--   </a>
-          </div> -->
-          <div class="small-5 shrink cell">
+			    <div class="small-5 shrink cell">
             <a href="{{site.url}}">
 						<h2 class="sans2 bkc f-2x" style="margin-top: 0.15em;">BUIDL Labs</h2>
             </a>
@@ -39,13 +24,9 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 			</div>
 			<div class="small-12 medium-6 cell xs-ws-top">
 				<ul class="menu align-right hover">
-	      <!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li>
-	      	<li><a href="{{site.url}}/blockchain" class="dbc">Blockchain</a></li> -->
 	      	<li><a href="{{site.url}}/careers" class="dbc active">Careers</a></li>
 	      	<li><a href="{{site.url}}/culture" class="dbc">Culture</a></li>
 	      	<li><a href="https://www.thevantageproject.com/playbook/" class="dbc">Playbook</a></li>
-	      	<!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li> -->
-	      	<!-- <li><a href="{{site.url}}/blog" class="dbc">Blog</a></li> -->
 	      </ul>
 	    </div>
 	  </div>

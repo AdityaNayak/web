@@ -30,14 +30,54 @@ layout: compress
 </div>
 <div class="lgbg">
 	<div class="grid-container">
-		<div class="grid-x ">
+		<div class="grid-x grid-margin-x">
 			<div class="small-12 medium-offset-1 medium-7 cell m-ws-top b-ws-bottom-p">
 				<div class="wbg">
 					<div class="grid-x grid-padding-x b-ws-top-p">
-						<div class="medium-10 medium-offset-1 small-12 cell s-ws-top s-ws-bottom">
+						<div class="medium-10 medium-offset-1 small-12 cell xs-ws-top s-ws-bottom">
 							<h2>{{page.title}}</h2>
-
+							<p class="s">{{page.statement}}</p>
 							{{ content }}
+							<h5 class="m-ws-top">What does success deliver</h5>
+							<p class="nm"><span class="bkc f-1-25x">{{page.pay}} per month</span>: {{page.paydesc}}</p>
+							<p class="nm"><span class="bkc"> {{page.base}} per month</span>: Base Pay</p>
+							<a href="#" class="ibtn">How does this work?</a>
+							
+							<p class="s4">//todo: figure out the right way to say this. Also check if there are some qualitative aspects to be added.</p>
+
+							<h5 class="m-ws-top">Individuals you'd be working with</h5>
+							<a href="{{site.url}}/team#{{page.lurl}}">
+								<div class="callout hv b">
+									<div class="grid-x grid-padding-x">
+										<div class="small-3 cell">
+											<img src="{{site.url}}/assets/img/{{page.limg}}" class="circle-img">
+										</div>
+										<div class="small-9 cell">
+											<p class="bkc bold nm">{{page.lfullname}}</p>
+											<p class="s2">Junior partner you'd be led by</p>
+											<p class="s nm">{% assign lead = site.data.team[page.lname] %}
+											{{lead.bio}}</p>
+										</div>
+									</div>
+								</div>
+							</a>
+							{% for individual in site.data.team[page.lname].individuals %}
+							  	<a href="{{site.url}}/team#{{individual.url}}">
+							  	<div class="grid-x grid-padding-x hvg">
+							
+							  	<div class="small-2 cell s-ws-left-p">
+							  		<div class="s-ws-left-p">
+								  		<img src="{{site.url}}/assets/img/{{individual.img}}" class="circle-img">
+								  	</div>
+							  	</div>
+							  	<div class="small-10 cell">
+							     <p class="bold bkc nm">{{ individual.name }}</p>
+							     <p class="s2 scolor">Blockchain Engineer</p>
+							   </div>
+								</div>  
+							</a>
+							{% endfor %}
+							<!-- </div> -->
 						</div>
 					</div>
 					<div class="lgbg">
@@ -62,6 +102,20 @@ layout: compress
 						</div>
 					</div>
 				</div>
+			</div>
+			<div class="cell medium-3 hide-for-small-only hide">
+		    <div class="sticky-container" data-sticky-container>
+		      <div class="sticky" data-sticky data-sticky-on="medium">
+		      	<div class="grid-x grid-padding-x">
+		      		<div class="small-6 cell">
+				        <!-- <div class="hvg"> -->
+									<img src="{{site.url}}/assets/img/{{page.limg}}" class="circle-img s-ws-top">
+								<!-- </div> -->
+								<!-- <p class="s3 scolor xs-ws-top">You'll be joining <span class="bkc u bold"> {{page.lname}}</span>'s team</p> -->
+							</div>
+			      </div>
+			    </div>
+		    </div>
 			</div>
 		</div>
 	</div>
