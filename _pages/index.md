@@ -30,7 +30,7 @@ description: Building infrastructure for the new decentralized world
 	      	<li><a href="{{site.url}}/careers" class="dbc">Careers</a></li>
 	      	<li><a href="https://www.thevantageproject.com/playbook/" class="dbc">Playbook</a></li>
 	      	<!-- <li><a href="{{site.url}}/ico" class="dbc">ICO</a></li> -->
-	      	<li><a href="{{site.url}}/blog" class="dbc">Blog</a></li>
+	      	<!-- <li><a href="{{site.url}}/blog" class="dbc">Blog</a></li> -->
 	      </ul>
 	    </div>
 	  </div>
@@ -61,19 +61,19 @@ description: Building infrastructure for the new decentralized world
 			<div class="small-12 large-centered large-8 medium-10 cell cell m-ws-bottom">
 				<div class="grid-x small-up-5 medium-up-5 large-up-5">
 					<div class="cell cell-block text-center">
-						<img src="{{site.url}}/assets/img/logo/eth.png" class="gs hv img-p s-ws-top">
+						<img src="{{site.url}}/assets/img/logo/eth.png" class=" img-p s-ws-top">
 					</div>
 					<div class="cell cell-block">
-						<img src="{{site.url}}/assets/img/logo/polka.svg" class="b-ws-top gs hv">
+						<img src="{{site.url}}/assets/img/logo/polka.svg" class="b-ws-top ">
 					</div>
 					<div class="cell cell-block text-center">
-						<img src="{{site.url}}/assets/img/logo/foam.png" class="img-h m-ws-top gs hv">
+						<img src="{{site.url}}/assets/img/logo/foam.png" class="img-h m-ws-top ">
 					</div>
 					<div class="cell cell-block">
-						<img src="{{site.url}}/assets/img/logo/zcash.png" class="m-ws-top gs hv">
+						<img src="{{site.url}}/assets/img/logo/zcash.png" class="m-ws-top ">
 					</div>
 					<div class="cell cell-block text-center">
-						<img src="{{site.url}}/assets/img/logo/tezos.jpg" class="img-h m-ws-top gs hv">
+						<img src="{{site.url}}/assets/img/logo/tezos.jpg" class="img-h m-ws-top ">
 					</div>
 				</div>
 			</div>

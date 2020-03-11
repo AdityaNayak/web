@@ -401,20 +401,11 @@ ol,div,li,span,a,p,h2,h3,h4,strong {
 	}
   
 }
-.callout.hv{
-  transition: all 0.5s;
-  &:hover, &:focus{
-    @extend .scolor3bg;
-    background: #eee;
-    transition: all 0.5s;
-  }
-  
-}
-a{
-  &.u{
+
+.u{
     border-bottom:1px dotted #dedede;
   }
-}
+
 .serif{
 	font-family: $font-family-serif;
 }
@@ -709,8 +700,10 @@ svg#i-clock {vertical-align: middle;}
 }
 .callout{
   &.hv{
+    transition: background 0.25s;
     &:hover, &:focus{
       @extend .llgbg;
+      transition: background 0.25s;
       // border-right:1px solid #eee;
       margin-top: -1px;
       border-bottom: 4px solid #eee;
@@ -720,6 +713,12 @@ svg#i-clock {vertical-align: middle;}
     border:1px solid #eee; 
     border-bottom: 3px solid #eee; 
     border-radius: 5px;
+  }
+}
+.hvg{
+  &:hover, &:focus{
+    @extend .llgbg;
+    margin-top: -1px;
   }
 }
 .angellist_jobs-title-link{

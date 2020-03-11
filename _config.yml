@@ -9,6 +9,7 @@ include:
   - ".htaccess"
   - "_pages"
   - "playbook/"
+  - "_jobs"
 
 exclude:
   - ".DS_Store"
@@ -37,14 +38,20 @@ exclude:
 # Add plugins in the Gemfile
 plugins:             ["jekyll-sitemap"]
 
+collections:
+  jobs:
+    output: true
+    permalink: /:collection/:name/
+    layout: bare
+
 
 # Conversion
 incremental:      true
 
 # Serving
-# url: http://127.0.0.1.xip.io:3000
+url: http://127.0.0.1.xip.io:3000
 # url:            "https://www.thevantageproject.com"
-url:            "https://buidllabs.io"
+# url:            "https://buidllabs.io"
 # url: https://thevantageproject.github.io/web
 # baseurl:        "" # does not include hostname
 
@@ -61,8 +68,13 @@ compress_html:
 highlighter:      rouge
 
 defaults:
-  -
-    scope:
+  - scope:
       path:            "assets/"
     values:
       sitemap:         false
+      defaults:
+  - scope:
+      path: ""
+      type: "jobs"
+    values:
+      layout: jobs
