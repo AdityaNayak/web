@@ -143,12 +143,12 @@ Current R&D work is bridging PoW and PoS consensus algorithms and bridging separ
 				{% for item in site.jobs %}
 				<div class="grid-x align-center">
 					<div class="small-10 cell">
-						<a href="{{item.url}}" target="_blank">
+						<a href="{{item.url}}">
 							<div class="callout hv b">
 								<p class="dbc bold nm">{{ item.title }}</p>
 								<p class="s">{{item.statement}}</p>
 								<p class="s2 nm">Base pay: <span class="bkc"> {{item.base}} per month</span></p>
-								<p class="s2">{{item.paydesc}} : <span class="bkc"> {{item.pay}} per month</span></p>
+								<p class="s2">{{item.paydesc}} : <span class="bkc"> {{item.pay}}</span></p>
 							</div>
 						</a>
 					</div>

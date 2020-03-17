@@ -63,7 +63,7 @@ javascript:
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.toggler.js"
     - "node_modules/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
     - "node_modules/foundation-sites/dist/js/plugins/foundation.sticky.js"
-
+    
     # # Foundation Components
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.accordion.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.accordionMenu.js"
@@ -81,12 +81,13 @@ javascript:
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.tabs.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.tooltip.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.zf.responsiveAccordionTabs.js"
-
+    # - "assets/js/app.js"
+    
     # Paths to your own project code are here
     # All the files in this list and in the js dir are concatenated into all.js
     - "!assets/js/all.js"
     - "assets/js/*.js"
-
+    
 jekyll:
   notification: "Running jekyll"
 
@@ -110,7 +111,6 @@ watch:
   pages:
     - "*.{md,html,yml,xml}"
     - "playbook/index.html"
-    - "jobs"
-    - "{_data,_includes,_layouts,_pages,_posts}/**/*.{md,html,yml,xml}"
+    - "{_data,_includes,_layouts,_jobs,_pages,_posts}/**/*.{md,html,yml,xml}"
     - "!_site/**/*.*"
     - "!assets/**/*.*"

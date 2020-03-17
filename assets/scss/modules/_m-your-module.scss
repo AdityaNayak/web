@@ -13,7 +13,9 @@
   &.xlarge{
     font-size: 1.4rem;
   }
-
+  &:hover, &:focus{
+      margin-top: -1px;
+  }
 }
 .btn{
 	color: $button-background;
@@ -24,6 +26,7 @@
 	padding:$button-padding;
 	&:hover, &:focus{
 		color:$button-background-hover;
+    margin-top: -1px;
 	}
 	&.disabled{
 		color: $light-gray;
@@ -45,6 +48,7 @@
   // padding:$button-padding;
   &:hover, &:focus{
     color:$button-background-hover;
+    margin-top: -1px;
   }
   &.disabled{
     color: $light-gray;
@@ -269,6 +273,9 @@ ol,div,li,span,a,p,h2,h3,h4,strong {
 .nbrr{
 	border-radius:0 !important;
 }
+.nbr{
+  border:none;
+}
 // .bbr{
 // 	border:2px solid $darkblue;
 // }
@@ -309,6 +316,9 @@ ol,div,li,span,a,p,h2,h3,h4,strong {
 }
 .scolor3bg{
 	background:rgba($black,0.26) !important;
+}
+.scolor4bg{
+  background:rgba($black,0.12) !important;
 }
  // .bbg{
 // 	background:$blue !important;
@@ -554,8 +564,34 @@ $timeline-item-card-radius: $global-radius;
   }
 }
 
+textarea,input{
+    &.naked{
+    box-shadow: none;
+    border: none;
+    padding: 0;
+    &:focus{
+      border:none;
+      box-shadow: none;
+    }
+    &.brbtm{
+      border-bottom: 1px dotted #dedede;
+    }
+    &.f-11x{
+      font-size: 1.1em;
+    
+    }
+  }
+}
 
-
+.blink {
+  animation: blink 0.5s infinite;
+}
+@keyframes blink{
+  to { opacity: .0; }
+}
+.flex {
+  display: flex;
+}
 
 .animate{
 		-webkit-transition: all 10s linear;
@@ -795,4 +831,7 @@ svg#i-clock {vertical-align: middle;}
   50% {
     color: $lightblue;
   }
+}
+.hides{
+  display: none;
 }

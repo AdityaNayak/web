@@ -278,8 +278,8 @@ description: Building infrastructure for the new decentralized world
 							<h2 class="sans2 bkc f-2x" style="line-height:1;">The <br> Vantage <br>Project</h2>
 						</a>
 					</div>
-					<div class="small-7 cell ">
-						<a class="button b-ws-top" href="https://www.thevantageproject.com/" target="_blank">Discover TVP</a>
+					<div class="small-7 cell b-ws-top">
+						<a class="button" href="https://www.thevantageproject.com/" target="_blank">Discover TVP</a>
 					</div>
 				</div>
 			</div>
