@@ -53,7 +53,7 @@ function updateCount() {
   var currenttextarea=$('.q-'+currentq+' textarea');
   let charsEntered = currenttextarea.val().length;
   charcount= maxLength - charsEntered
-  // console.log(charcount);
+	  // console.log(charcount);
   if(charcount<100){
   	if(charcount>0){
   		$('.charcount').fadeIn().text(charcount);
@@ -116,10 +116,16 @@ $('.v2 .callout').click(function(e){
         next();
     });
 });
+var user;
 $('.sectioncontroller .button').click(function(e){
 	var currentq=getactiveq();
 	console.log(currentq);
-	syncinit()
+	if(user){
+		syncinit();
+	}
+	else{
+		$('.st-1b').slideDown(1000);
+	}
 	// console.log(currentq+1);
 	//todo: This should support keyboard shortcuts through form .submit.
 	e.preventDefault();
@@ -239,4 +245,10 @@ $('.flogin').submit(function(e){
 	// syncinit();
 	// synccompleted();
 	// $('.st-2').delay(1000).slideUp(1000);
+});
+$(".st-1b .btn").click(function(){
+	$('.st-1b').slideUp(1000);
+	$('.st-1').delay(1000).slideDown(1000);
+	// $('.st-1a').delay(1000).slideDown(1000);
+	// $('.st-2').delay(4000).slideDown(1000);
 });
