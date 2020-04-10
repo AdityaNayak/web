@@ -31,7 +31,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		</div>
 	</div>
 </div>
-<div class="lgbg">
+<div class="suitbg" style="background-position: 5% 100%; background-size: 20%;">
 	<div class="grid-container">
 		<div class="grid-x">
 			<div class="small-12 medium-10 large-6 large-offset-3 cell b-ws-top b-ws-bottom-p">
@@ -55,9 +55,9 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<p>It is impossible for unhappy people to do any meaningful work.</p>
 				<p>We are built on a foundation of betting on people, playing for integrity and existing in a state of service.</p>
 				<p>We place disproportionate value on state of mind and look for individuals who are aligned with our vantage. It is this alignment that affords the existence of exponential growth curve that we seek to deliver for all individuals. </p>
-				<p class="m-ws-top"><span class="bold dbc f-1-25x nm">Culture</span> — which we understand to mean the systems that dictate how employees relate to one another, the work to be done, and the customers — often forms without much oversight. Like any random experiment, the results of letting culture form unchecked can vary between fair to disastrous.</p>
+				<p class="b-ws-top m-ws-top-p"><span class="bold dbc f-1-25x nm">Culture</span> — which we understand to mean the systems that dictate how employees relate to one another, the work to be done, and the customers — often forms without much oversight. Like any random experiment, the results of letting culture form unchecked can vary between fair to disastrous.</p>
 				<p>When unchecked, humans in groups tend to fall back to baser states. Superstitions and biases color important decisions, and often subtly so. Power concentrates to the loudest and most confident people. Groupthink is encouraged. The first step in creating a positive place where good people can do great work is to recognize these faults and make explicit decisions to address them.</p>
-				<p>Put another way, culture is the manifestation of what your company values. What you reward, who you hire, how work is done, how decisions are made — all of these things are representations of the things you value and the culture you’ve wittingly or unwittingly created.</p>
+				<p class="b-ws-top">Put another way, culture is the manifestation of what a company values. What we reward, who we hire, how work is done, how decisions are made — all of these things are representations of the things we value and the culture we’ve wittingly or unwittingly created.</p>
 				<p class="scolor2 s3"><a href="https://slackhq.com/building-the-workplace-we-want" class="scolor2"> Stolen from Slack | Building the workplace we want</a></p>
 			</div>
 			<div class="medium-2 large-3 cell b-ws-top b-ws-top-p hide-for-small-only">
