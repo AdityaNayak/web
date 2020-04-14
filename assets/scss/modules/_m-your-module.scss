@@ -16,6 +16,11 @@
   &:hover, &:focus{
       margin-top: -1px;
   }
+  &.white{
+    background: #fff;
+    border-bottom:3px solid scale-color(#fff, $lightness: -30%);
+    color: #333;
+  }
 }
 .btn{
 	color: $button-background;
