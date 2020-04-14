@@ -3,21 +3,27 @@ permalink: /culture/
 layout: bare
 title: Culture
 image: team.jpg
-n: jobs
+n: culture
 description: We are kickass problem solvers. We hire, develop and cut to ensure champions in every position.
 ---
 <div class="lgbg b-ws-top-p b-ws-bottom-p">
 	<div class="grid-container">
 		<div class="grid-x">
 			<div class="large-3 large-offset-3 medium-4 medium-offset-2 small-8 small-offset-2 cell s-ws-top">
-				<div class="grid-x ">
-					<div class="small-6 shrink cell">
+				<div class="grid-x grid-padding-x">
+					<div class="small-3 cell np">
 						<a href="{{site.url}}">
-							<h2 class="sans2 bkc f-2x" style="line-height:1;">BUIDL Labs <span class="blinking-cursor">|</span></h2>
+							<img src="{{site.url}}/assets/img/logo.png" style="margin-top:0.25em">
 						</a>
 					</div>
-					<div class="small-4 cell">
-						<h1 class="sans2 bold bgc" style="margin-top: 0.02em;">Careers</h1>
+					<div class="small-4 shrink cell xs-ws-top">
+						<a href="{{site.url}}" class="">
+							<h1 class="sans2 bkc nm" style="line-height:1;">BUIDL</h1>
+							<h2 class="sans bkc" style="line-height:1; font-weight: 200;">labs</h2>
+						</a>
+					</div>
+					<div class="small-5 cell" style="border-left:1px solid #dedede;">
+						<h1 class="sans2 bold bc s-ws-top">Culture</h1>
 					</div>
 				</div>
 			</div>
@@ -31,14 +37,28 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		</div>
 	</div>
 </div>
-<div class="suitbg" style="background-position: 5% 100%; background-size: 20%;">
+<div class="lgbg b-ws-bottom-p" style="background-position: 5% 100%; background-size: 20%;">
 	<div class="grid-container">
 		<div class="grid-x">
 			<div class="small-12 medium-10 large-6 large-offset-3 cell b-ws-top b-ws-bottom-p">
-				<!-- <h3>How we see ourselves</h3> -->
-				<p>We are a distributed team of 10 individuals, growing 2x every quarter. And are working to create the workplace, technologies and operating principles of tomorrow.</p>
-				<p class="bold bkc nm">If we are not living in, inspired by and building for the future; that's an incredibly boring way to go through life.</p>
-				<p>We believe in a future with individual freedom (permissionless), lower mistrust (trustless) and meritocracy (decentralised). We are here building it.</p>
+				<p>We are a distributed team of 10 (+counting) individuals, growing 2x every quarter. And are working to create the workplace, technologies and operating principles of tomorrow.</p>
+				<p class=" bold bkc">If we are not living in, inspired by and building for the future; that's an incredibly boring way to go through life.</p>
+				<h5 class="m-ws-top">Our world view</h5>
+				<p>We believe in a future that is:</p>
+				<ol>
+					<li>
+						<div class="bkc bold">Permissionless</div>
+						<p>Freedom for the individual from existing at the mercy of the collective. In service of the larger good. For only free men can create. Only when you can create, can you serve.</p>
+					</li>
+					<li>
+						<div class="bkc bold">Trustless</div> 
+						<p>All human progress occurs from individuals cooperating with each other. Being able to trust each other forms the basis of any cooperation. The lower its need, the more effecient the cooperation.</p>
+					</li>
+					<li>
+						<div class="bkc bold">Decentralized</div>
+						<p>Degree of centralized decision making a network needs to succeed, is inversely proportional the meritocracy it is able to promote within. It is the duty of the network to promote the good actor within each participant, while disincentivizing the bad actor that is within all of us.</p></li>
+				</ol>
+				<p class="s-ws-top">We are here, building it.</p>
 				<blockquote>I could either watch it happen or be a part of it.
 					<cite>-Said someone famous</cite>
 				</blockquote>
@@ -54,71 +74,56 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<p class="nm">Not pleasure; happiness. </p>
 				<p>It is impossible for unhappy people to do any meaningful work.</p>
 				<p>We are built on a foundation of betting on people, playing for integrity and existing in a state of service.</p>
-				<p>We place disproportionate value on state of mind and look for individuals who are aligned with our vantage. It is this alignment that affords the existence of exponential growth curve that we seek to deliver for all individuals. </p>
-				<p class="b-ws-top m-ws-top-p"><span class="bold dbc f-1-25x nm">Culture</span> — which we understand to mean the systems that dictate how employees relate to one another, the work to be done, and the customers — often forms without much oversight. Like any random experiment, the results of letting culture form unchecked can vary between fair to disastrous.</p>
-				<p>When unchecked, humans in groups tend to fall back to baser states. Superstitions and biases color important decisions, and often subtly so. Power concentrates to the loudest and most confident people. Groupthink is encouraged. The first step in creating a positive place where good people can do great work is to recognize these faults and make explicit decisions to address them.</p>
-				<p class="b-ws-top">Put another way, culture is the manifestation of what a company values. What we reward, who we hire, how work is done, how decisions are made — all of these things are representations of the things we value and the culture we’ve wittingly or unwittingly created.</p>
-				<p class="scolor2 s3"><a href="https://slackhq.com/building-the-workplace-we-want" class="scolor2"> Stolen from Slack | Building the workplace we want</a></p>
+				<p>We place disproportionate value on state of mind and look for individuals who are aligned with our worldview. It is this alignment that affords the existence of exponential growth curve that we seek to deliver for all individuals. </p>
+				<p class="b-ws-top m-ws-top-p"><span class="bold dbc f-1-25x nm">Culture</span> — which we understand to mean the systems that dictate how individuals relate to one another, the work to be done, and the customers — often forms without much oversight. Like any random experiment, the results of letting culture form unchecked can vary between average to disastrous.</p>
+				<p class="scolor2 s3"><a href="https://slackhq.com/building-the-workplace-we-want" class="scolor2"> Paraphrased from Slack | Building the workplace we want</a></p>
+				<p>When unchecked, humans in groups tend to fall back to baser states.</p>
+				<ul>
+					<li>Superstitions and biases color important decisions, and often subtly so.</li>
+					<li>Power concentrates to the loudest and most confident people. Groupthink is encouraged.</li>
+					<li>The first step in creating a positive place where good people can do great work is to recognize these faults and make explicit decisions to address them.</li>
+				</ul>
+				<p class="b-ws-top">Put another way, culture is the manifestation of what the team values. What we reward, who we hire, how work is done, how decisions are made — all of these things are representations the culture we’ve wittingly or unwittingly created.</p>
+				<p>Our work here is to deliberately try to move things from unconscious to conscious.</p>
 			</div>
 			<div class="medium-2 large-3 cell b-ws-top b-ws-top-p hide-for-small-only">
-				<img src="https://d2zr9w65gdacs9.cloudfront.net/45079/about-team2x1572014979inline.jpg">
+				<img src="{{site.url}}/assets/img/placeholder.jpg">
 			</div>
 		</div>
 	</div>
 </div>
-<div class="lgbg">
+<!-- <div class="lgbg">
 	<div class="grid-container">
 		<div class="grid-x align-center">
 			<div class="small-12 medium-10 large-6 cell b-ws-top">
-				<h3 class="nm">Why am I still here</h3>
-				<p>Stories from The Individuals</p>
+				<h3 class="nm">Why I am still here</h3>
+				<p>Stories of The Individuals, from their vantage</p>
 			</div>
 		</div>
 	</div>
 		<div class="grid-container">
 			<div class="grid-x align-center">
-				<div class="small-12 large-10 cell">
+				<div class="small-12 large-8 cell">
 					<div class="grid-x grid-padding-x">
-						<div class="small-3 cell">
+						{% assign posts = site.posts | where_exp: "post", "post.categories contains 'stories'" %}
+						{% for post in posts %}
+						<div class="small-4 cell">
 							<div class="callout hv b np">
 								<img src="https://dev-staging-lw-attachments-paperclip-attachments.s3.amazonaws.com/000/960/096/article_large/4609e43086184fc9253585439a14e9f738e97fe9.jpeg?1545356939">
 								<div class="s-ws-left-p s-ws-right-p s-ws-top">
-									<p class="h5 nm">5 things that buidl taught me, that changed my life.</p>
-									<p class="s">Bhaskar Singh | Engineer</p>
+									<p class="h5 nm">{{post.title}}</p>
+									<p class="s">{{post.author}} | Engineer</p>
 								</div>
 							</div>
 						</div>
-						<div class="small-3 cell">
-						<div class="callout hv b np">
-							<img src="https://dev-staging-lw-attachments-paperclip-attachments.s3.amazonaws.com/000/960/096/article_large/4609e43086184fc9253585439a14e9f738e97fe9.jpeg?1545356939">
-							<div class="s-ws-left-p s-ws-right-p s-ws-top">
-								<p class="h5 nm">5 things that buidl taught me, that changed my life.</p>
-								<p class="s">Bhaskar Singh | Engineer</p>
-							</div>
-						</div>
-					</div>
-					<div class="small-3 cell">
-						<div class="callout hv b np">
-							<img src="https://dev-staging-lw-attachments-paperclip-attachments.s3.amazonaws.com/000/960/096/article_large/4609e43086184fc9253585439a14e9f738e97fe9.jpeg?1545356939">
-							<div class="s-ws-left-p s-ws-right-p s-ws-top">
-								<p class="h5 nm">5 things that buidl taught me, that changed my life.</p>
-								<p class="s">Bhaskar Singh | Engineer</p>
-							</div>
-						</div>
-					</div>
-					<div class="small-3 cell">
-						<div class="callout hv b np">
-							<img src="https://dev-staging-lw-attachments-paperclip-attachments.s3.amazonaws.com/000/960/096/article_large/4609e43086184fc9253585439a14e9f738e97fe9.jpeg?1545356939">
-							<div class="s-ws-left-p s-ws-right-p s-ws-top">
-								<p class="h5 nm">5 things that buidl taught me, that changed my life.</p>
-								<p class="s">Bhaskar Singh | Engineer</p>
-							</div>
-						</div>
-					</div>
+						{% endfor %}
 				</div>
 			</div>
 		</div>
 	</div>
+</div>
+-->
+<div class="lgbg">
 	<div class="grid-container">
 		<div class="grid-x align-center">
 			<div class="small-12 medium-10 large-6 cell b-ws-top">
@@ -131,20 +136,25 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 			<div class="small-12 large-10 cell m-ws-top">
 				<div class="grid-x grid-padding-x">
 					<div class="small-4 cell">
-						<img src="https://image.flaticon.com/icons/svg/2534/2534929.svg" class="img-s s-ws-bottom">
-						<h5 class="nm">Distrbuted.</h5>
-						<p>Remote-first. We cherish flow states. Offices are for chatter. Not peak productivity.</p>
+						<img src="{{site.url}}/assets/img/flow.svg" class="img-s s-ws-bottom">
+						<h5 class="nm">Distributed.</h5>
+						<p class="bkc">Remote-first. We cherish flow states.</p>
 						<p>Trust is the default environment. Trust by nature is binary.</p>
+						<p>Offices are for chatter. Not peak productivity.</p>
 					</div>
 					<div class="small-4 cell">
-						<img src="https://image.flaticon.com/icons/svg/2640/2640228.svg" class="img-s s-ws-bottom">
+						<img src="{{site.url}}/assets/img/selfgrowth.svg" class="img-s s-ws-bottom">
 						<h5 class="nm">Self-responsible.</h5>
-						<p>It is stupid to hire smart people and tell them what to do. We use affordance (and incentive) design to inspire, not manage. We mimic evolution.</p>
+						<p class="bkc">It is stupid to hire smart people and tell them what to do. We learn from evolution.</p>
+						<p>We use affordance (and incentive) design to inspire, not manage. Only (inspired) individuals create. The rest co-opt.</p>
+						<p>We detest micro-management and dictation. Expect to be self-responsible when you are here.</p>
 					</div>
 					<div class="small-4 cell">
-						<img src="https://image.flaticon.com/icons/svg/1226/1226194.svg" class="img-s s-ws-bottom">
+						<img src="{{site.url}}/assets/img/selfgrowth2.svg" class="img-s s-ws-bottom">
 						<h5>Self-growth.</h5>
-						<p>An oppurtunity for a high growth ascend path that at its highest rate can 4x your current earnings (and 10x the networth) in 18 months. This comes from us batting for the Individual and playing for Integrity.</p>
+						<p class="bkc">This comes from us batting for the Individual and playing for Integrity.</p>
+						<p>An oppurtunity for a high growth ascend path that at its highest rate can 4x your current earnings (and 10x the networth) in 18 months.</p>
+						<p>Do not expect assured appraisals and inflation-level increments.</p>
 					</div>
 				</div>
 			</div>
@@ -161,7 +171,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<div class=" small-12 medium-10 cell">
 					<div class="grid-x grid-padding-x s-ws-top">
 						<div class="small-4 cell">
-							<a>
+							<a href="https://www.thevantageproject.com/playbook/">
 								<div class="callout hv b">
 									<p class="dbc bold nm">Read more <i class="fas fa-angle-right bc"></i></p>
 									<p class="s2">Playbook</p>
@@ -192,14 +202,14 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 			<div class="grid-x align-center">
 				<div class="small-12 medium-10 large-6 cell b-ws-top">
 					<h3>Stack we use</h3>
-					<img src="https://seeklogo.net/wp-content/uploads/2019/01/new-Slack-logo-vector.png" width="100px">
-					<img src="https://image.flaticon.com/icons/svg/1384/1384065.svg" width="100px" style="padding: 1.5em;">
-					<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100px;" style="padding: 1em;">
-					<img src="https://www.tryjarvis.ai/wp-content/uploads/2019/11/logo-black-color.png" width="100px;">
+					<img src="{{site.url}}/assets/img/slack.png" width="100px">
+					<img src="{{site.url}}/assets/img/twitter.svg" width="100px" style="padding: 1.5em;">
+					<img src="{{site.url}}/assets/img/github.png" width="100px;" style="padding: 1em;">
+					<img src="{{site.url}}/assets/img/jarvis.png" width="50px;">
 				</div>
 			</div>
 		</div>
-		<div class="grid-container">
+		<!-- <div class="grid-container">
 			<div class="grid-x align-center">
 				<div class="small-12 medium-10 large-6 cell b-ws-top">
 					<h3 class="nm">Lens we view the world with</h3>
@@ -238,7 +248,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 	</div>
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-center">

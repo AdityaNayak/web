@@ -1,6 +1,6 @@
 # Site settings
 language:               "en"
-title:                  ""
+title:                  "BUIDL Labs"
 description:            "Building infrastructure for the new decentralized world"
 # google-verification:    "XClNz4rZr5JJ4Caeh1_ywN2E74ZNj4NGt45o1wnqloU"
 
@@ -8,12 +8,13 @@ description:            "Building infrastructure for the new decentralized world
 include:
   - ".htaccess"
   - "_pages"
-  - "playbook/"
+  # - "playbook/"
   - "_jobs"
 
 exclude:
   - ".DS_Store"
-  # - "blog"
+  - "blog"
+  - "playbook"
   # - "/assets/"
   - "bower.json"
   - "bower_components"

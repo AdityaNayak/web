@@ -689,46 +689,19 @@ code{
 
 svg#i-clock {vertical-align: middle;}
 
+.b1bg{
+  background: url('../img/cover-1.png') no-repeat; background-position: 0% 90%;
+}
+.b2bg{
+  background: url('../img/cover-2.png') no-repeat; background-position: 90% 90%;
+}
+.b3bg{
+  background: url('../img/cover-3.png') no-repeat; background-position: 0% 90%;
+}
+.b4bg{
+  background: url('../img/cover-4.png') no-repeat; background-position: 10% 10%;
+}
 
-.ssbg{
-  background:#fafafa url('../img/spaceshuttle.jpg') no-repeat; background-position: -35% 100%;
-}
-.handbg{
-  background:#fafafa url('../img/hand.jpg') no-repeat; background-position: -35% 100%;
-}
-.cbg{
-  background:#fafafa url('../img/capsule.jpg') no-repeat;background-position:120% 50%;
-}
-.robotwbg{
-  background:#fafafa url('../img/robotw.jpg') no-repeat;background-position: 10% 80%;
-}
-.suit2bg{
-  background:#fafafa url('../img/suit2.jpg') no-repeat; background-position: 150% -20%;
-}
-.suitbg{
-  background:#fafafa url('../img/suit.jpg') no-repeat; background-position: -20% 50%;
-}
-.rsuitbg{
-  background:#fafafa url('../img/rsuit.jpg') no-repeat; background-position: 108% 50%;
-}
-.robotbg{
-  background:#fafafa url('../img/robot2.jpg') no-repeat; background-position: 100% 0%;
-}
-.fsuitbg{
-  background:#fafafa url('../img/fsuit.jpg') no-repeat; background-position: 100% 0%;
-}
-.bpackbg{
-  background:#fafafa url('../img/bpack.jpg') no-repeat; background-position: 210% 0%;
-}
-.helmetbg{
-  background:#fafafa url('../img/helmet1.jpg') no-repeat; background-position: 0% 90%;
-}
-.helmet2bg{
-  background:#fafafa url('../img/helmet2.jpg') no-repeat; background-position: 0% 90%;
-  &.r{
-    background-position: 100% 30%;
-  }
-}
 .scrollbox{
   overflow: scroll;
 }

@@ -11,15 +11,21 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 	<div class="grid-container">
 		<div class="grid-x">
 			<div class="large-3 large-offset-3 medium-4 medium-offset-2 small-8 small-offset-2 cell s-ws-top">
-				<div class="grid-x ">
-			    <div class="small-5 shrink cell">
-            <a href="{{site.url}}">
-						<h2 class="sans2 bkc f-2x" style="margin-top: 0.15em;">BUIDL Labs</h2>
-            </a>
-          </div>
-          <div class="small-6 cell">
-            <h1 class="sans2 bold scolor"><span class="blinking-cursor">|</span> Careers</h1>
-          </div>
+				<div class="grid-x grid-padding-x">
+					<div class="small-3 cell np">
+						<a href="{{site.url}}">
+							<img src="{{site.url}}/assets/img/logo.png" style="margin-top:0.25em">
+						</a>
+					</div>
+					<div class="small-4 shrink cell xs-ws-top">
+						<a href="{{site.url}}" class="">
+							<h1 class="sans2 bkc nm" style="line-height:1;">BUIDL</h1>
+							<h2 class="sans bkc" style="line-height:1; font-weight: 200;">labs</h2>
+						</a>
+					</div>
+					<div class="small-5 cell" style="border-left:1px solid #dedede;">
+						<h1 class="sans2 bold bc s-ws-top">Careers</h1>
+					</div>
 				</div>
 			</div>
 			<div class="small-12 medium-6 cell xs-ws-top">
@@ -39,7 +45,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<!-- <h4 class="bkc">We're a high-performance team, not a family.</h4>
 				<p class="b-ws-top">Families are structured for companionship. We are structured like a sports team; <span class="bkc f-1-25x">Built to Win.</span> </p> -->
 				<h3>Who are we</h3>
-				<p>We build ecosystems and infrastructure for web 3.0 i.e. a future of the world that is decentralized, permissionless and trusless.</p>
+				<p>We serve the protocols of tomorrow that we believe in, by solving key problems that limit adoption.</p>
 				<!-- <h5>BUIDL-ers</h5> -->
 				<p class="bold bkc nm">Engineering throughput</p>
 				<p>We contribute code to Open source projects of other web 3.0 communities to help build the foundations of a decentralized future. Helps us understand the protocol and community in depth. Funded by grants.<a class="ibtn block s2" href="https://github.com/buidl-labs">View projects on Github</a></p>
@@ -54,7 +60,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 		</div>
 	</div>
 </div>
-<div class="wbg b-ws-bottom-p b-ws-top-p">
+<div class="b4bg b-ws-bottom-p b-ws-top-p">
 	<div class="grid-container">
 		<div class="grid-x">
 			<div class="small-12 medium-10 large-6 end cell large-offset-3">
@@ -69,7 +75,7 @@ description: We are kickass problem solvers. We hire, develop and cut to ensure 
 				<p class="bkc">Wealth = freedom</p>
 				<p>We afford space for the spirit of enterprise within each one of us, without the delusional heroism of taking disproportionate risks of the venture capital/startup path. We do so through Operator equity. <a href="#" class="ibtn s2 block">Learn how</a></p>
 				<h5 class="m-ws-top">2. Set your career path to where the future lies.</h5>
-				<p>Blockchain today is like the internet was in the 90s; Unreal, broken and restricted to nerds. Yet, it had the most profound impact of any technology, by far. Imagine getting in on the action at day 1.</p>
+				<p>Blockchain today is like the internet was in the 90s; Unreal, broken and restricted to nerds. Yet, it has created horizontal disruption on a global scale, impacting each and every industry with it. Imagine getting in on the action at day 1.</p>
 				<p><img src="http://www.marketsandmarkets.com/images/blockchain-market8.jpg"></p>
 				<h5 class="b-ws-top">3. Work with inspired and happy doers</h5>
 				<p class="nm">We work super hard to mantain a culture of:</p>
@@ -98,7 +104,7 @@ Current R&D work is bridging PoW and PoS consensus algorithms and bridging separ
 			<div class=" small-12 medium-10 cell">
 				<div class="grid-x grid-padding-x">
 					<div class="small-4 cell">
-						<a>
+						<a href="{{site.url}}/culture">
 							<div class="callout hv b">
 								<p class="dbc bold nm">Our Culture <i class="fas fa-angle-right bc"></i></p>
 								<p class="s2">What environment should you expect</p>
@@ -122,7 +128,7 @@ Current R&D work is bridging PoW and PoS consensus algorithms and bridging separ
 						</a>
 					</div> -->
 					<div class="small-4 cell">
-						<a>
+						<a href="{{site.url}}/team">
 							<div class="callout hv b">
 								<p class="dbc bold nm">The Individuals <i class="fas fa-angle-right bc"></i></p>
 								<p class="s2">Meet the team you'll be joining</p>
