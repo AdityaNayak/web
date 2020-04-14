@@ -15,9 +15,9 @@ description: Building infrastructure for the new decentralized world
 							<img src="{{site.url}}/assets/img/logo.png" style="margin-top:0.25em">
 						</a>
 					</div>
-					<div class="small-9 shrink cell xs-ws-top">
+					<div class="small-9 shrink cell">
 						<a href="{{site.url}}" class="">
-							<h1 class="sans2 bkc nm" style="line-height:1;">BUIDL</h1>
+							<h1 class="sans2 bkc nm f-3x" style="line-height:1;">BUIDL</h1>
 							<h2 class="sans bkc" style="line-height:1; font-weight: 200;">labs</h2>
 						</a>
 					</div>
