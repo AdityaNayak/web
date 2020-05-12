@@ -1,5 +1,5 @@
 ---
-permalink: /akn/
+permalink: /
 layout: bare
 title: Aditya Kumar Nayak
 <!-- image: bg2.jpg -->
