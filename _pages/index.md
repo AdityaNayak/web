@@ -21,18 +21,20 @@ description: I am being. In truth. In reality. In the moment.
 		<div class="grid-x align-center b-ws-top">
 			<div class="small-12 medium-10 large-8 cell b-ws-top-p b-ws-bottom-p">
 				<p class="">I am working on:</p>
-				<p class="h4 nm">1. Coordination problem in invisble networks</p>
-				<p class="nm">Statism is not resilient enough for a world of individual competence. Its time for its successor. Let's find it. Details soon.</p>
+				<p class="h4 ">1. Coordination problem in invisble networks</p>
+				<p class="">Statism is not resilient enough for a world of individual competence. Its time for its successor. Let's find it.</p>
+				<p>Details soon.</p>
 				<!-- <a class="ibtn dbc">New Nation <i class="fas fa-arrow-right bc"></i></a> -->
-				<p class="h4 m-ws-top-p nm">2. Coordination problem in visible network</p>
-				<p class="nm">Distributed, and hence decentralised organisations are the vehicle towards a more meritocratic and hence, free-er world.</p>
+				<p class="h4 m-ws-top-p ">2. Coordination problem in visible network</p>
+				<p class="">Distributed, and hence decentralised organisations are the vehicle towards a more meritocratic and hence, free-er world.</p>
 				<p>Decentralization reduces individual responsibility and ownership. Throughout history it is the individualist’s self interest that has been most potent force for all progress.</p>
 				<p>Distributed + Incentive design = Top 10 on Nasdaq in the next 20 years. If nasdaq is still around, that is.</p>
-				<p>Humanity's ways of working are not ready for a connected (remote-first), innovation led (valueing ethical wealth creation) and individual-centric (decentralized) world. Current experimenting at <a href="https://buidllabs.io/">BUIDL Labs</a></p>
+				<p>Humanity's ways of working are not ready for a connected (remote-first), innovation led (valueing ethical wealth creation) and individual-centric (decentralized) world. Current experimenting at <a href="https://buidllabs.io/">BUIDL Labs</a>.</p>
 				<a class="ibtn dbc" href="https://playbook.thevantageproject.com/">The Vantage Project <i class="fas fa-arrow-right bc"></i></a>
-				<p class="h4 m-ws-top-p nm">3. New Individual</p>
-				<p class="nm">There is violence in the world, because there is violence within.</p>
-				<p>Less than binary consciousness breeds myopia. Myopia prevents positive-sum coordination. The problem needs to be addressed at its root. Details soon.</p>
+				<p class="h4 m-ws-top-p ">3. New Individual</p>
+				<p class="">There is violence in the world, because there is violence within.</p>
+				<p>Less than binary consciousness breeds myopia. Myopia prevents positive-sum coordination. The problem needs to be addressed at its root.</p>
+				<p>Details soon.</p>
 				<!-- <a class="ibtn dbc">My Experiments with Integrity <i class="fas fa-arrow-right bc"></i></a> -->
 			</div>
 		</div>
