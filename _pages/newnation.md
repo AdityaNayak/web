@@ -20,6 +20,12 @@ Consent, merit and private ownership.
 Make money the true representation of success. 
 
 
+Responsibility is to offer security
+From external states
+Health
+From other individuals within.
+
+
 First 100 sign ups are not needed to deposit. Next 1000 will be straight deposit. Next 10000 slots will be auctioned. 
 
 Step 1: we buy sovereignty from another nation.
@@ -63,3 +69,10 @@ Steps:
     2. or gets paid a stream of free cash from this pot.  
 5. Else, 100 million to establish a new country. 
 6. The DAOs that reach the threshold get put in execution. Each DAO has an year to reach it. 
+
+
+
+
+The fundamental basis is truth, not morality. 
+
+You choose yours and we'll see which one emerges victorious.
