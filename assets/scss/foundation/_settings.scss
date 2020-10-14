@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans:400,700");
 @import url("https://use.typekit.net/fld4sdt.css");
 
 //  Foundation for Sites Settings
@@ -48,16 +48,16 @@
 // 1. Global
 // ---------
 
-// $global-font-size: 100%;
+$global-font-size: 100%;
 // $global-width: rem-calc(1200);
 // $global-lineheight: 1.5;
 
 
 $darkblack: #222222;
-$black       : rgba(93, 86, 80,0.87);
-$lightblack: rgba(93, 86, 80,0.56);
-$grey: rgba(93, 86, 80,0.27);
-$lightgrey: rgba(93, 86, 80,0.12);
+$black       : rgba(0,0,0,0.87);
+$lightblack: rgba(0,0,0,0.56);
+$grey: rgba(0,0,0,0.27);
+$lightgrey: rgba(0,0,0,0.12);
 $darkblue:#112e50;
 $lightblue: #3E92CC;
 $yellow: #F8BA07;
@@ -76,7 +76,7 @@ $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $body-background: $white;
 $body-font-color: $black;
-$font-family-sans-serif: 'Source Sans Pro',  Helvetica, Roboto, Arial, sans-serif;
+$font-family-sans-serif: 'Noto Sans',  Helvetica, Roboto, Arial, sans-serif;
 $font-family-serif: Georgia, Cambria, "Times New Roman", Times, serif;
 $body-font-family: $font-family-sans-serif;
 $body-antialiased: true;
@@ -134,9 +134,9 @@ $header-sizes: (
   medium: (
     'h1': 32,
     'h2': 27,
-    'h3': 24,
-    'h4': 20,
-    'h5': 18,
+    'h3': 21,
+    'h4': 18,
+    'h5': 16,
     'h6': 14,
   ),
 );

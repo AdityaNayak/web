@@ -1,0 +1,47 @@
+<h3>Join us to help humanity get to the future faster</h3>
+<h5 class="m-ws-top s-ws-left">Subscribe to Job alerts</h5>
+<p class="s-ws-left">We'll alert you whenever new opppurtunities become available.</p>
+
+<!-- Begin Mailchimp Signup Form -->
+<div class="grid-x  grid-padding-x">
+	<div class="small-10 cell">
+		<form action="https://buidllabs.us8.list-manage.com/subscribe/post?u=b4cbb67e4e29e864b789a8805&amp;id=bc4fba9cb2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			<div class="input-group">
+				<!-- <label for="mce-EMAIL">Email Address </label> -->
+				<input type="email" required="" value="" name="EMAIL" class="required email input-group-field" id="mce-EMAIL" placeholder="Drop your email here">
+				<div id="mce-responses" class="clear">
+					<div class="response" id="mce-error-response" style="display:none"></div>
+					<div class="response" id="mce-success-response" style="display:none"></div>
+				</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+				<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b4cbb67e4e29e864b789a8805_bc4fba9cb2" tabindex="-1" value=""></div>
+				<div class="input-group-button">
+					<input type="submit" value="Subscribe" name="subscribe" class="button">
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+<!--End mc_embed_signup-->
+<h5 class="m-ws-top s-ws-left">Open Positions</h5>
+{% for item in site.jobs %}
+<div class="grid-x align-center">
+	<div class="small-10 cell">
+		<a href="{{item.url}}">
+			<div class="callout hv b">
+				<p class="dbc bold nm">{{ item.title }}</p>
+				<p class="s">{{item.statement}}</p>
+				<p class="s2 nm">Base pay: <span class="bkc"> {{item.base}} per month</span></p>
+				<p class="s2">{{item.paydesc}} : <span class="bkc"> {{item.pay}}</span></p>
+			</div>
+		</a>
+	</div>
+	<div class="small-2 cell s-ws-left-p">
+		<a href="{{site.url}}/team#{{item.llink}}">
+			<div class="s-ws-right-p hvg">
+				<img src="{{site.url}}/assets/img/{{item.limg}}" class="circle-img s-ws-top">
+			</div>
+			<p class="s3 scolor xs-ws-top">You'll be joining <span class="bkc u bold"> {{item.lname}}</span>'s team</p>
+		</a>
+	</div>
+</div>
+{% endfor %}

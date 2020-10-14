@@ -1,7 +1,7 @@
 # Site settings
 language:               "en"
-title:                  "BUIDL Labs"
-description:            "Building infrastructure for the new decentralized world"
+title:                  "BUIDL Network"
+description:            "Enabling wealth creation oppurutnities for everyone"
 # google-verification:    "XClNz4rZr5JJ4Caeh1_ywN2E74ZNj4NGt45o1wnqloU"
 
 # Handling Reading
@@ -52,13 +52,13 @@ incremental:      true
 # Serving
 # url: http://127.0.0.1.xip.io:3000
 # url:            "https://www.thevantageproject.com"
-url:            "https://buidllabs.io"
+url:            "https://buidlnet.work"
 # url: https://thevantageproject.github.io/web
 # baseurl:        "" # does not include hostname
 
 # Outputting
 # permalink:        "/blog/:year/:title/"
-permalink: "/:title"
+permalink: "/:slug/"
 paginate_path:    "/blog/page:num"
 paginate:         5
 
