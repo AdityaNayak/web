@@ -1,5 +1,5 @@
 ---
-slug: /tavo/
+<!-- slug: /tavo/ -->
 layout: post
 title: What is a TAVO?
 partial: all

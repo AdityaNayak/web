@@ -2,13 +2,25 @@
 layout: default
 ---
 
-<main>
+<!-- <main> -->
 <!-- <small><i>main</i></small> -->
-<article>
-  <h1>{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date_to_string }}</p>
-  <p class="post-content">
-  {{ content }}
-  </p>
+<article>	
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x align-center">
+      <div class="small-12 medium-10 large-6 cell b-ws-top b-ws-bottom-p">
+      	<h1>{{page.title}}</h1>
+      </div>
+    </div>
+  </div>
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="medium-2 large-3 cell text-right">
+        <p class="meta scolor2 s">{{ page.date | date_to_string }}</p>
+      </div>
+      <div class="large-6 medium-10 small-12 cell">
+			{{ content }}
+      </div>
+    </div>
+  </div>
 </article>
-</main>
+<!-- </main> -->

@@ -65,7 +65,7 @@ javascript:
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.sticky.js"
     
     # # Foundation Components
-    # - "node_modules/foundation-sites/dist/js/plugins/foundation.accordion.js"
+    - "node_modules/foundation-sites/dist/js/plugins/foundation.accordion.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.accordionMenu.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.drilldown.js"
     # - "node_modules/foundation-sites/dist/js/plugins/foundation.dropdown.js"

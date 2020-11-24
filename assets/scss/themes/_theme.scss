@@ -22,14 +22,19 @@
   }
 }
 .btn{
+  @extend .button;
   color: $button-background;
-  text-transform:uppercase;
-  cursor:pointer;
-  font-weight:bold;
-  font-size:14px;
-  padding:$button-padding;
+  background: none;
+  // text-transform:uppercase;
+  // cursor:pointer;
+  border:none !important;
+  text-align: left;
+  // font-weight:bold;
+  // font-size:14px;
+  padding-left:0;
   &:hover, &:focus{
     color:$button-background-hover;
+    background: none;
     margin-top: -1px;
   }
   &.disabled{
@@ -145,7 +150,27 @@ ol,div,li,span,a,p,h2,h3,h4,strong {
     margin: 6px 6px 0 -48px;
   }
 }
-
+.img-rt-0-5{
+  transform: rotate(45deg);
+}
+.img-rt-1{
+  transform: rotate(90deg);
+}
+.img-rt-1-5{
+  transform: rotate(135deg);
+}
+.img-rt-2{
+  transform: rotate(180deg);
+}
+.img-rt-2-5{
+  transform: rotate(225deg);
+}
+.img-rt-3{
+  transform: rotate(270deg);
+}
+.img-rt-3-5{
+  transform: rotate(315deg);
+}
 .fullwidth{
   width:100%;
 }
@@ -427,6 +452,16 @@ textarea,input{
     width: 75%;
   }
 }
+.icon::after {
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Step 2: Reference Individual Icons */
+
 .callout{
   &.hv{
     transition: background 0.25s;
@@ -443,10 +478,25 @@ textarea,input{
     border-bottom: 3px solid #eee; 
     border-radius: 5px;
   }
+  &.a{
+    padding-right:2em;
+  }
+  &.a::after {
+    @extend .icon;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f054";
+    position: absolute;
+    top:25%;
+    right:1em;
+    @extend .bc;
+
+  }
 }
-.hvg{
+.hvbg{
+  border-radius:5px;
   &:hover, &:focus{
-    @extend .llgbg;
+    @extend .lgbg;
     margin-top: -1px;
   }
 }
@@ -489,6 +539,17 @@ textarea,input{
     }
   }
 }
+
+.accordion-title::before{
+  font-size: 2em !important;
+  top:auto !important;
+}
+// .accordian-title{
+//   &:before{
+//     font-size: 2em;
+//     top:0;
+//   }
+// }
 
 .progress .meter {
 	-moz-transition:width 0.7s ease;

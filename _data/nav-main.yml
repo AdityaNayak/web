@@ -1,5 +1,11 @@
-- link: TAVO
+- link: TAVO 101
   url: /tavo/
-  
-- link: TAVO hub
-  url: /tavohub/
+
+- link: Ecosystem
+  url: /ecosystem/
+
+# - link: Grants
+#   url: /grants/
+
+- link: Roadmap
+  url: /roadmap/

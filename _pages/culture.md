@@ -6,37 +6,7 @@ image: team.jpg
 n: culture
 description: We are kickass problem solvers. We hire, develop and cut to ensure champions in every position.
 ---
-<div class="lgbg b-ws-top-p b-ws-bottom-p">
-	<div class="grid-container">
-		<div class="grid-x">
-			<div class="large-3 large-offset-3 medium-4 medium-offset-2 small-8 small-offset-2 cell s-ws-top">
-				<div class="grid-x grid-padding-x">
-					<div class="small-3 cell np">
-						<a href="{{site.url}}">
-							<img src="{{site.url}}/assets/img/logo.png" style="margin-top:0.25em">
-						</a>
-					</div>
-					<div class="small-4 shrink cell xs-ws-top">
-						<a href="{{site.url}}" class="">
-							<h1 class="sans2 bkc nm" style="line-height:1;">BUIDL</h1>
-							<h2 class="sans bkc" style="line-height:1; font-weight: 200;">labs</h2>
-						</a>
-					</div>
-					<div class="small-5 cell" style="border-left:1px solid #dedede;">
-						<h1 class="sans2 bold bc s-ws-top">Culture</h1>
-					</div>
-				</div>
-			</div>
-			<div class="small-12 medium-6 cell xs-ws-top">
-				<ul class="menu align-right hover">
-					<li><a href="{{site.url}}/careers" class="dbc">Careers</a></li>
-					<li><a href="{{site.url}}/culture" class="dbc active">Culture</a></li>
-					<li><a href="https://www.thevantageproject.com/playbook/" class="dbc">Playbook</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</div>
+
 <div class="lgbg b-ws-bottom-p" style="background-position: 5% 100%; background-size: 20%;">
 	<div class="grid-container">
 		<div class="grid-x">

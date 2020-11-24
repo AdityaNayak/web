@@ -1,0 +1,122 @@
+---
+slug: /enterprise/
+layout: post
+title: History of Human Enterprise
+<!-- partial: all -->
+image: team.jpg
+<!-- n: jobs -->
+<!-- description: We are kickass problem solvers. We hire, develop and cut to ensure champions in every position. -->
+---
+
+<blockquote class="m-ws-bottom">A company, abbreviated as co., is a legal entity representing an association of people, whether natural, legal or a mixture of both, with a specific objective. Company members share a common purpose and unite to achieve specific, declared goals.</blockquote>
+
+<p>The history of human enterprise is a distinct story of large scale human cooperation in the pursuit of a shared goal of seeking wealth, in whatever form was suitable for that age. It has been the refuge of the innovator, the architect and the artist, in every society that is otherwise always naturally tending to violence.</p>
+<p>And by offering an alternative path forward, it has shaped the very societies it inhabits; by shaping collective decision making and establishing profit as a virtuous goal. Since, zero-sum games are finite, the path to profit has led to greater positive sum games overtime, reduction in violence and has formed the <a href="https://www.youtube.com/watch?v=AX4MKIDvXLM">foundation of human progress</a>.</p>
+<p>It's form evolved over time to become more free, more private (i.e. distinct from power) and more accessible; as the leverage of power was replaced by the leverage of innovation due to increasing competition in the entrepreneurial marketplace. And with each new innovation in its form came a paradigm shift in the idea of human possibility.</p>
+
+<p class="b-ws-top">It's latest (and most successful form) is the 'Company', with 3 distinct characteristics:</p>
+<ol>
+	<li><b>Personhood</b></li>
+	<p>The intellectual (and legal) construct that a company is an artifical person with its own personality/identity, right and obligations. It can exist, enter contracts and make decisions; distinct from its individual constituents.</p> 
+	<a href="https://www.npr.org/2014/07/28/335288388/when-did-companies-become-people-excavating-the-legal-evolution">When Did Companies Become People?</a>
+	<li class="m-ws-top"><b>Shared ownership</b></li>
+	<p>The idea that you could 'own' a fraction of this construct, through an instrument called 'shares'; and these shares become private property with their own right and obligations within the rules chosen by the construct itself.</p>
+	<p>This fractional private ownership can be transferred, and its privileges and risks shared with others. Thus, allowing a co-operation strategy (instead of competition) and a creation of something bigger that outlasts and outshines any one individual.</p>
+	<li class="m-ws-top"><b>Limited Liablity</b></li>
+	<p>The caveat that the liabilities of the company are not transitive onto its shareholders. Thus, pushing the responsibility of accurate decision making onto the form itself.</p>
+</ol>
+<blockquote class="m-ws-top">In its 400+ year history, the corporation has achieved extraordinary things, cutting around-the-world travel time from years to less than a day, putting a computer on every desk, a toilet in every home (nearly) and a cellphone within reach of every human.
+</blockquote>
+<h3 class="b-ws-top">A brief history of its form</h3>
+<ol>
+	<li class="m-ws-top"><b>Universitas, corpus or collegium</b></li>
+	<ul>
+		<li>During Roman times. ~50s</li>
+		<li>Common law constructs emerge. Including the state itself (the Populus Romanus).</li>
+		<li>Required trial by conquest. Only the powerful could get permission. And the state and enterprise was rarely distinguishable.</li>
+	</ul>
+	<li class="m-ws-top"><b>Guilds</b></li>
+	<ul>
+		<li>During the mercantile age. ~500s</li>
+		<li>A class of tradesmen starts to become prominent and state and enterprise starts to become distinguishable. <br> Idea of leveraging IP (trade secrets/specific knowledge) emerges. And forms the basis of commerce.</li>
+		<li>Required trial by inheritence. You had to be born into the trade, to be able to start an enterprise. Mostly informal constructs that passed from generation to generation.</li>
+	</ul>
+	<li class="m-ws-top"><b>Charter Companies</b></li>
+	<ul>
+		<li>During the age of conquest/exploration. ~1800s.</li>
+		<li>The idea of raising funds through an offering of shares emerges. Primarily to fund expeditions to the new world. <br> This creates East India companies, first stock exchanges and paper stocks.</li>
+		<li>New enterprises could now be incorporated by a royal decree. This was unprecedented.</li>
+	</ul>
+	<li class="m-ws-top"><b>Corporation</b></li>
+	<ul>
+		<li>During industrial age. ~1900s</li>
+		<li>Incorporation by Registration emerges.<br> No longer was incorporation a privilege that was granted by the state to a few; it was an option available to all.</li>
+		<li>Used to own and manage production systems. This is when the idea of stock as an asset class starts going mainstream and wall street emerges.</li>
+	</ul>
+	<li class="m-ws-top"><b>Startups</b></li>
+	<ul>
+		<li>During the silicon age. ~1980s</li>
+		<li>Form for the first time, is used not just to 'manage' holdings but to fund new technology through a new asset class of venture capital.</li>
+		<li>Requires trial by innovation. And used the feature of limited liability to take higher risks and fund uncollateralized founders.</li>
+	</ul>
+	<li class="m-ws-top"><b>TAVOs</b></li>
+	<ul>
+		<li>Permission is not Freedom.</li>
+		<li>TAVOs are permissionless companies.</li>
+		<li>Freedom to innovate unleashes a cambrian explosion of new possibilities. Just observe DeFi.</li>
+		<!-- <li>Requires trial by innovation. And used the feature of limited liability to unlock exponential wealth.</li> -->
+	</ul>
+</ol>
+<p class="m-ws-top">Highly recommended read:</p>
+<div>
+<a href="https://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/"><div class="callout hv b a"><h5>A Brief History of the Corporation: 1600 to 2100 <small> | Venkatesh Rao</small></h5></div></a>
+</div>
+<!-- <p class="b-ws-top">
+Uptil this point, any innovation in the enterprise form has been permissioned and almost decreed. The new blockchain world, affords the possibility of making this process permissionless.
+</p> -->
+<p class="bold nm m-ws-top-p">Profit from positive Sum games improves human life.</p>
+<p>When its easier to enterprise, zero sum strategies get out competed faster.</p><p>Imagine a future where human energy spent on 'governance' is zero. Now, that's a future worth buidl-ing for. :)</p>
+<h3 class="b-ws-top">What are the behavioural shifts making this possible?</h3>
+<ol>
+	<li>Building in public</li>
+	<li>Distributed and geo-agnostic workforce</li>
+	<li>Rules with Rulers</li>
+</ol>
+<p class="nm b-ws-top-p"><b>TAVO: Companies on-chain.</b></p>
+<p>Jurisdiction: web 3.0</p>
+<p>Welcome to the future.</p>
+<div class="callout secondary b-ws-top">
+	<p>This section is under research, less than accurate and incomplete. Follow the links to quench your thirst:</p>
+</div>
+<div>
+<a href="https://ccl.yale.edu/sites/default/files/files/Khanna_PPT.pdf">
+	<div class="callout hv b a">
+		<h5>The Economic History of the Corporate Form in Ancient India <small> | Vikramaditya S Khanna</small>
+		</h5>
+	</div>
+</a>
+</div>
+<div>
+<a href="https://irp-cdn.multiscreensite.com/c46b8f15/files/uploaded/The%20Emergence%20of%20the%20Corporate%20Form.pdf">
+	<div class="callout hv b a">
+		<h5>The Emergence of the Corporate Form
+		</h5>
+	</div>
+</a>
+</div>
+<div>
+<a href="https://news.law.fordham.edu/jcfl/2018/11/18/a-brief-history-of-the-corporate-form-and-why-it-matters/">
+	<div class="callout hv b a">
+		<h5>A Brief History of the Corporate Form and Why it Matters
+		</h5>
+	</div>
+</a>
+</div>
+<div>
+<a href="http://www.law.harvard.edu/programs/olin_center/papers/pdf/280.pdf">
+	<div class="callout hv b a">
+		<h5>The End of History for Corporate Law
+		</h5>
+	</div>
+</a>
+</div>
