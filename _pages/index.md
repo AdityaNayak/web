@@ -32,8 +32,8 @@ description: Building infrastructure for the new decentralized world
 					</div>
 					<div class="small-10 np shrink cell">
 						<a href="{{site.url}}" class="nbr">
-							<h1><span class="sans2 bkc nm f-1-5x" style="line-height:1;"> BUIDLer </span> <br>
-								<span class="sans bkc" style="line-height:1; font-weight: 200;"><span class="bc bold">.</span>network</span></h1>
+							<h1><span class="sans2 bkc nm f-1-5x" style="line-height:1;"> BUIDL </span> <br>
+								<span class="sans bkc" style="line-height:1; font-weight: 200;">net<span class="bc bold">.</span>work</span></h1>
 						</a>
 					</div>
 				</div>
@@ -61,12 +61,12 @@ description: Building infrastructure for the new decentralized world
 						<div class="small-8 small-offset-6 cell">
 							<a href="{{site.url}}/why-not-daos/">
 								<div class="callout b hv a">
-									<h5>Why not DAOs? </h5>
+									<h5>Why DAOs are not it? </h5>
 								</div>
 							</a>
 							<a href="{{site.url}}/enterprise/">
 								<div class="callout b hv a">
-									<h5>Why TAVOs are the next step in evolution of Human Enterprise.</h5>
+									<h5>Evolution of human enterprise and the 'company' form</h5>
 								</div>
 							</a>
 							<a href="{{site.url}}/tavo/">
@@ -76,7 +76,7 @@ description: Building infrastructure for the new decentralized world
 							</a>
 							<a href="{{site.url}}/tavo#init">
 								<div class="callout b hv a">
-									<h5>How to initiate a TAVO? </h5>
+									<h5>How to initiatize a TAVO? </h5>
 								</div>
 							</a>
 						</div>
@@ -242,7 +242,7 @@ description: Building infrastructure for the new decentralized world
 										<img src="{{site.url}}/assets/img/growth.svg" class="img-s xs-ws-bottom">
 										<h4>Long-term games with long-term people.</h4>
 										<p>Eliminating myopia creates oppurtunities for compounding.</p>
-										<p>Read the <a>manifesto</a></p>
+										<p>Read the <a>charter</a></p>
 									</div>
 									<div class="small-4 cell">
 										<img src="{{site.url}}/assets/img/friends.svg" class="img-s xs-ws-bottom">
@@ -280,7 +280,7 @@ description: Building infrastructure for the new decentralized world
 			<div class="grid-x grid-padding-x">
 				<div class="small-8 cell">
 					<h2>Roadmap</h2>
-					<p>BUIDL network is an experimental TAVO implementation of <a href="https://buidllabs.io">BUIDL Labs</a>.</p>
+					<p>BUIDL network is an experimental TAVO implementation of <a href="https://buidllabs.io">BUIDL Labs v1</a>.</p>
 				</div>
 				<div class="small-4 cell s-ws-top-p">
 					<a class="button" href="{{site.url}}/roadmap/">View map</a>

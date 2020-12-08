@@ -1,8 +1,17 @@
-- link: Top
-  url: #
-# - link: Buidl
-#   url: https://www.thevantageproject.com/buidl
-# - link: Growth
-#   url: https://www.thevantageproject.com/growth-bootcamp-init/
-- link: Twitter
-  url: https://www.twitter.com/buidllabs
+# - link: Top
+#   url: #
+# # - link: Buidl
+# #   url: https://www.thevantageproject.com/buidl
+# # - link: Growth
+# #   url: https://www.thevantageproject.com/growth-bootcamp-init/
+# - link: Twitter
+#   url: https://www.twitter.com/buidllabs
+
+- link: Why DAOs are not it
+  url: /why-not-daos/
+
+- link: Evolution of the 'company' form
+  url: /enterprise/
+
+- link: What is a TAVO
+  url: /tavo/

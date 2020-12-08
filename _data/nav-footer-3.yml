@@ -6,14 +6,14 @@
 # #   url: https://www.facebook.com/thevantageproject
 # - link: Github
 #   url: https://www.github.com/buidl-labs
-# - link: Privacy
+# # - link: Privacy
   # url: https://www.thevantageproject/privacy
 
-- link: SOCH stablecoin 
-  url: /soch
+- link: Network Ecosystem
+  url: /ecosystem/
 
-- link: Web3 governance is overrated
-  url: /tavo#governance
+- link: Network Roadmap
+  url: /roadmap/
 
-- link: How to initialize a TAVO
-  url: /tavo#init
+- link: Network Playbook
+  url: https://playbook.buidlnet.work
