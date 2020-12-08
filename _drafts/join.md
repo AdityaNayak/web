@@ -1,5 +1,5 @@
 ---
-permalink: /soch/
+permalink: /join/
 layout: default
 <!-- title: Buidl Labs -->
 <!-- image: bg2.jpg -->

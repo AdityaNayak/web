@@ -1,5 +1,5 @@
 ---
-permalink: /soch/
+permalink: /value-proposition/
 layout: default
 <!-- title: Buidl Labs -->
 <!-- image: bg2.jpg -->
