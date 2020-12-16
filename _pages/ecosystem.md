@@ -108,7 +108,7 @@ description:
 						<li>What is the highest yield (i.e reward:cost) strategy to victory?</li> 
 						<li>What tactical advantange can we use that makes the business unbeatable?</li>
 					</ol> -->
-					<p class="s-ws-top">It does so by truth-seeking executed through analysis, observations and experimentation.</p>
+					<p class="s-ws-top">It does so by truth-seeking executed through (first-principle) analysis, observations (from travellers before) and experimentation (of critical hypotheses); before committing to long-term execution.</p>
 					<li class="m-ws-top"><h5>Inviting grants</h5></li>
 						<p>Each TAVO is initialized by seed capital from the partners + invited grants from other DAOs/communities.</p>
 						<p>As long as what you are building is valuable, there is infinite grant capital available in the web3 space.</p>
@@ -169,7 +169,7 @@ description:
 				</ol>
 				<h4 class="b-ws-top">Investment Token Swap</h4>
 				<p>Fund uses an innovative token swap to invest in TAVOs that get accepted into the guild.</p>
-				<p>$30k worth of BUIDL tokens are transferred to the startup TAVO in exchange for 20% of its tokens. Both tokens are locked for a 12 month period.</p>
+				<p>20% of partner's capital (upto $30k) of BUIDL tokens are transferred to the startup TAVO in exchange for 20% of its tokens. Guild serves as a Backer. Both tokens are locked for a 12 month period.</p>
 				<p>BUIDL tokens can be used as collateral to borrow against. They can also be used to vote in the fund's decision-making.</p>
 				<p>Purpose of the fund is to grow the value of its treasury by contributing to its constituent tokens' value.</p>
 			</div>

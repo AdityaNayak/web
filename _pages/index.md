@@ -61,7 +61,7 @@ description: Building infrastructure for the new decentralized world
 						<div class="small-8 small-offset-6 cell">
 							<a href="{{site.url}}/why-not-daos/">
 								<div class="callout b hv a">
-									<h5>Why DAOs are not it? </h5>
+									<h5>Why DAOs are not it</h5>
 								</div>
 							</a>
 							<a href="{{site.url}}/enterprise/">
