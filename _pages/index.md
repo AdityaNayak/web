@@ -18,7 +18,7 @@ description: Building infrastructure for the new decentralized world
 			<div class="small-12 medium-10 large-6 cell b-ws-bottom b-ws-top">
 				<p class="nm scolor2">Think:</p>
 				<p class="f-1-25x ">Doing finance on-chain unleashed DeFi.</p> 
-				<p class="f-1-25x">What could building companies on-chain create
+				<p class="f-1-25x">What could building real-world companies on-chain create
 				<span class="typewriter">
 				    <span class="typewriter-text">....<span class="bc">.</span></span>
 				</span></p>
